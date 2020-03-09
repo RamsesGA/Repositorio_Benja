@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SonicGenerations.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{77BDF000-A46D-4376-B7E6-920B6AB28597}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SonicGenerations.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SonicGenerationsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{92DB499F-D3A2-4816-B86F-6AEE0B5DCB6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SonicGenerations">
+      <UniqueIdentifier>{2F54EEC6-4395-4DA0-BA3F-DD40FAF1B120}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SonicGenerations\PawnCharacter.cpp">
+      <Filter>Source\SonicGenerations</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SonicGenerations\PawnCharacter.h">
+      <Filter>Source\SonicGenerations</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SonicGenerations\SonicGenerations.Build.cs">
+      <Filter>Source\SonicGenerations</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SonicGenerations\SonicGenerations.cpp">
+      <Filter>Source\SonicGenerations</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SonicGenerations\SonicGenerations.h">
+      <Filter>Source\SonicGenerations</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SonicGenerations.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\SonicGenerationsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\PawnCharacter.cpp.obj"
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\SonicGenerations.cpp.obj"
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\PawnCharacter.gen.cpp.obj"
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\SonicGenerations.init.gen.cpp.obj"
+"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\Default.rc2.res"
+/OUT:"C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Intermediate\Build\Win64\UE4Editor\Development\SonicGenerations\UE4Editor-SonicGenerations.lib"
+/INCLUDE:IMPLEMENT_MODULE_SonicGenerations

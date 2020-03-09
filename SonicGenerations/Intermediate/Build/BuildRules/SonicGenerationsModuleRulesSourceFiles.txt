@@ -1,0 +1,3 @@
+C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Source\SonicGenerations\SonicGenerations.Build.cs
+C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Source\SonicGenerations.Target.cs
+C:\Users\ramse\Documents\Unreal Projects\SonicGenerations\Source\SonicGenerationsEditor.Target.cs
