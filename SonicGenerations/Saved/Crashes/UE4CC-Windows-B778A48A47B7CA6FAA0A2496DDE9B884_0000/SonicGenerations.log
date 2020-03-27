@@ -1,0 +1,1057 @@
+﻿Log file open, 02/05/20 03:56:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SonicGenerations
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197963
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.05-09.56.20:096][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.05-09.56.20:097][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.05-09.56.20:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:098][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:105][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-09.56.20:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-09.56.20:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-09.56.20:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-09.56.20:108][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-09.56.20:109][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-09.56.20:110][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-09.56.20:110][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.05-09.56.20:141][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.05-09.56.20:141][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.05-09.56.20:141][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.05-09.56.20:141][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:141][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-09.56.20:141][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-09.56.20:141][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:141][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-09.56.20:141][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-09.56.20:142][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.05-09.56.20:143][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.56.20:143][  0]LogInit: Computer: LAPTOP-BGAV0320
+[2020.02.05-09.56.20:143][  0]LogInit: User: ramse
+[2020.02.05-09.56.20:143][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.05-09.56.20:143][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.05-09.56.20:143][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.05-09.56.20:143][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.05-09.56.20:143][  0]LogMemory: Process Physical Memory: 97.06 MB used, 97.06 MB peak
+[2020.02.05-09.56.20:143][  0]LogMemory: Process Virtual Memory: 91.95 MB used, 91.95 MB peak
+[2020.02.05-09.56.20:143][  0]LogMemory: Physical Memory: 4924.92 MB used,  11334.24 MB free, 16259.16 MB total
+[2020.02.05-09.56.20:143][  0]LogMemory: Virtual Memory: 4632.94 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.02.05-09.56.20:171][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.02.05-09.56.20:171][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.02.05-09.56.20:343][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.05-09.56.20:373][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.05-09.56.20:373][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.05-09.56.20:571][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-09.56.20:571][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.05-09.56.20:645][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.05-09.56.20:645][  0]LogD3D11RHI:       1979/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.05-09.56.20:675][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.05-09.56.20:675][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.05-09.56.20:677][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-09.56.20:677][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-09.56.20:677][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.05-09.56.20:710][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.05-09.56.20:710][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.02.05-09.56.20:710][  0]LogWindows: EnumDisplayDevices:
+[2020.02.05-09.56.20:710][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.05-09.56.20:710][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.05-09.56.20:710][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.05-09.56.20:711][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.05-09.56.20:711][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.05-09.56.20:711][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.05-09.56.20:711][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.05-09.56.20:711][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.02.05-09.56.20:756][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.05-09.56.20:774][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.56.20:775][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.56.20:775][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.56.20:783][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.05-09.56.21:088][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.05-09.56.21:103][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.05-09.56.21:119][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.05-09.56.21:135][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.05-09.56.21:150][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.05-09.56.21:165][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.05-09.56.21:180][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.05-09.56.21:195][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.05-09.56.21:203][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.05-09.56.21:294][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.05-09.56.21:296][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.05-09.56.21:348][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.05-09.56.21:348][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.05-09.56.21:373][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.05-09.56.21:374][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.05-09.56.21:386][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.05-09.56.21:399][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.05-09.56.21:412][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.05-09.56.21:426][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.05-09.56.21:471][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.05-09.56.21:471][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.05-09.56.21:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.05-09.56.21:480][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.05-09.56.21:536][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Intermediate/Shaders/WorkingDirectory/20612/).
+[2020.02.05-09.56.21:536][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramse/AppData/Local/Temp/UnrealShaderWorkingDir/7BB477704BE7B05423808998094BC3A0/'.
+[2020.02.05-09.56.21:538][  0]LogXGEController: Cleaning working directory: C:/Users/ramse/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.05-09.56.21:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.05-09.56.21:539][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.05-09.56.21:539][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.05-09.56.22:101][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-09.56.22:150][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.05-09.56.22:163][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.05-09.56.22:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-09.56.22:163][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.05-09.56.22:176][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.05-09.56.22:176][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.05-09.56.22:176][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.05-09.56.22:199][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.05-09.56.22:200][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.05-09.56.22:201][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.05-09.56.22:286][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2020.02.05-09.56.22:616][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-09.56.22:751][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.05-09.56.22:751][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.05-09.56.22:751][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.05-09.56.22:751][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.05-09.56.22:751][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.05-09.56.22:768][  0]LogNetVersion: SonicGenerations 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3921513358)
+[2020.02.05-09.56.23:191][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042789 seconds
+[2020.02.05-09.56.23:197][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.05-09.56.23:197][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.05-09.56.23:197][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.05-09.56.24:038][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.05-09.56.24:051][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.05-09.56.24:185][  0]SourceControl: Source control is disabled
+[2020.02.05-09.56.24:185][  0]SourceControl: Source control is disabled
+[2020.02.05-09.56.24:186][  0]SourceControl: Source control is disabled
+[2020.02.05-09.56.24:187][  0]SourceControl: Source control is disabled
+[2020.02.05-09.56.24:262][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.05-09.56.24:360][  0]LogOcInput: OculusInput pre-init called
+[2020.02.05-09.56.25:062][  0]LogEngine: Initializing Engine...
+[2020.02.05-09.56.25:063][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-09.56.25:064][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.05-09.56.25:274][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.05-09.56.25:288][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.05-09.56.25:316][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-09.56.25:356][  0]LogInit: FAudioDevice initialized.
+[2020.02.05-09.56.25:356][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.05-09.56.27:011][  0]LogDerivedDataCache: Saved boot cache 1.65s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-09.56.27:025][  0]LogInit: Texture streaming: Enabled
+[2020.02.05-09.56.27:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.05-09.56.27:092][  0]LogInit: Transaction tracking system initialized
+[2020.02.05-09.56.27:118][  0]BlueprintLog: New page: Editor Load
+[2020.02.05-09.56.27:206][  0]LocalizationService: Localization service is disabled
+[2020.02.05-09.56.27:312][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.05-09.56.27:313][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.05-09.56.27:313][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2020.02.05-09.56.27:509][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/' took 0.01s
+[2020.02.05-09.56.27:509][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.05-09.56.27:509][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.05-09.56.27:687][  0]SourceControl: Source control is disabled
+[2020.02.05-09.56.27:687][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-09.56.27:687][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.05-09.56.27:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-09.56.27:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.02.05-09.56.27:687][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2020.02.05-09.56.27:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.56.27:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.56.27:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.56.27:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.56.27:852][  0]LogCollectionManager: Loaded 0 collections in 0.002362 seconds
+[2020.02.05-09.56.27:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Collections/' took 0.01s
+[2020.02.05-09.56.27:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Developers/ramse/Collections/' took 0.00s
+[2020.02.05-09.56.27:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Collections/' took 0.00s
+[2020.02.05-09.56.27:869][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.05-09.56.27:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2732 classes and 659 folders.
+[2020.02.05-09.56.27:885][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.56.27:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.56.27:930][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.56.27:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.05-09.56.27:991][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.05-09.56.27:993][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.05-09.56.27:998][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.05-09.56.28:064][  0]LogRenderer: Reallocating scene render targets to support 804x420 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-09.56.28:197][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.56.28:197][  0]LogLoad: (Engine Initialization) Total time: 9.92 seconds
+[2020.02.05-09.56.28:197][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.05-09.56.28:241][  0]LogAssetRegistry: Asset discovery search completed in 5.9779 seconds
+[2020.02.05-09.56.28:243][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.05-09.56.28:243][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.02.05-09.56.28:245][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.05-09.56.28:273][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-09.57.09:367][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.57.09:517][471]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.09:518][471]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.09:518][471]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.09:518][471]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.09:518][471]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.09:518][471]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsBoost
+[2020.02.05-09.57.09:519][471]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.09:523][471]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-09.57.09:536][471]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBoost.SonicColorsBoost
+[2020.02.05-09.57.10:736][471]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.10:824][471]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.11:960][533]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.05-09.57.11:961][533]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.05-09.57.11:961][533]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SonicColorsModel/SonicColorsBase.SonicColorsBase'
+[2020.02.05-09.57.12:943][591]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBoost.SonicColorsBoost
+[2020.02.05-09.57.12:974][591]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.05-09.57.13:177][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.13:180][591]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.02.05-09.57.13:455][591]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.13:626][591]LogRenderer: Reallocating scene render targets to support 912x420 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-09.57.13:626][591]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.14:821][657]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBoostC26D8A65416918CEC524409B6FAE03E3.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBoost.uasset'
+[2020.02.05-09.57.16:640][750]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.16:640][750]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.16:640][750]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.16:640][750]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.16:640][750]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.16:641][750]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsIdle03
+[2020.02.05-09.57.16:641][750]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.16:655][750]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle03.SonicColorsIdle03
+[2020.02.05-09.57.17:837][750]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.17:920][750]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.19:691][849]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle03.SonicColorsIdle03
+[2020.02.05-09.57.19:723][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.20:013][849]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.20:194][849]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.20:926][886]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdle03029106AB4EBDB0257B2A318296482902.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle03.uasset'
+[2020.02.05-09.57.21:324][909]LogSlate: Window 'SonicColorsIdle03' being destroyed
+[2020.02.05-09.57.22:231][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00'
+[2020.02.05-09.57.22:231][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00' while loading NULL.
+[2020.02.05-09.57.22:232][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01'
+[2020.02.05-09.57.22:232][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01' while loading NULL.
+[2020.02.05-09.57.22:232][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02'
+[2020.02.05-09.57.22:232][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02' while loading NULL.
+[2020.02.05-09.57.22:232][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03'
+[2020.02.05-09.57.22:233][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03' while loading NULL.
+[2020.02.05-09.57.22:233][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:233][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:233][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00'
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00' while loading NULL.
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01'
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01' while loading NULL.
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02'
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02' while loading NULL.
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03'
+[2020.02.05-09.57.22:234][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03' while loading NULL.
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.22:235][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.22:236][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:236][952]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.SonicColorsIdleLoop Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:236][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:236][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:237][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:237][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00'
+[2020.02.05-09.57.22:237][952]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00.SonicColorsIdle00 Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:237][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle00' while loading NULL.
+[2020.02.05-09.57.22:237][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:237][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01'
+[2020.02.05-09.57.22:238][952]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01.SonicColorsIdle01 Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle01' while loading NULL.
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:238][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02'
+[2020.02.05-09.57.22:239][952]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02.SonicColorsIdle02 Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle02' while loading NULL.
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:239][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03'
+[2020.02.05-09.57.22:240][952]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03.SonicColorsIdle03 Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdle03' while loading NULL.
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.22:240][952]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsIdleComposite
+[2020.02.05-09.57.22:240][952]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.22:252][952]LogAssetEditorManager: Opening Asset editor for AnimComposite /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.SonicColorsIdleComposite
+[2020.02.05-09.57.23:483][952]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.23:563][952]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.25:406][ 57]LogAssetEditorManager: Opening Asset editor for AnimComposite /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.SonicColorsIdleComposite
+[2020.02.05-09.57.25:438][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.25:718][ 57]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.25:862][ 57]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.27:532][145]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdleCompositeFF6E08DD49FE96D6B81840B7BD32B9F9.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.uasset'
+[2020.02.05-09.57.28:035][174]LogSlate: Window 'SonicColorsIdleComposite' being destroyed
+[2020.02.05-09.57.29:667][262]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.29:667][262]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.29:667][262]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.29:667][262]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.29:668][262]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.29:668][262]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsIdleLoop
+[2020.02.05-09.57.29:668][262]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.29:679][262]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.SonicColorsIdleLoop
+[2020.02.05-09.57.30:746][262]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.30:829][262]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.32:735][371]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.SonicColorsIdleLoop
+[2020.02.05-09.57.32:761][371]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.33:029][371]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.33:233][371]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.34:399][434]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdleLoopB3611BF0430A927262BC869C68D93C7C.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.uasset'
+[2020.02.05-09.57.34:760][455]LogSlate: Window 'SonicColorsIdleLoop' being destroyed
+[2020.02.05-09.57.35:672][498]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.35:673][498]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.35:673][498]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.35:673][498]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.35:673][498]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.35:673][498]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsJet
+[2020.02.05-09.57.35:674][498]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.35:684][498]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJet.SonicColorsJet
+[2020.02.05-09.57.36:952][498]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.37:035][498]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.38:010][552]LogLinker: Warning: Can't find file '/Game/SkeletalMeshes/SonicRun'
+[2020.02.05-09.57.38:010][552]LogLinker: Warning: Can't find file '/Game/SkeletalMeshes/SonicRun'
+[2020.02.05-09.57.38:010][552]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SkeletalMeshes/SonicRun.SonicRun'
+[2020.02.05-09.57.39:925][666]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJet.SonicColorsJet
+[2020.02.05-09.57.39:950][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.40:226][666]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.40:401][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.41:370][717]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsJet855ED1E44123925F601D35B357D92003.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJet.uasset'
+[2020.02.05-09.57.41:762][740]LogSlate: Window 'SonicColorsJet' being destroyed
+[2020.02.05-09.57.42:443][770]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.42:443][770]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.42:443][770]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.42:443][770]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.42:444][770]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.42:444][770]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsJog
+[2020.02.05-09.57.42:444][770]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.42:452][770]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJog.SonicColorsJog
+[2020.02.05-09.57.43:548][770]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.43:630][770]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.45:070][851]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJog.SonicColorsJog
+[2020.02.05-09.57.45:101][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.45:620][851]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.45:812][851]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.47:240][928]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsJogEF1F8BF0449D9509E3AA0F8FED3BF1F2.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJog.uasset'
+[2020.02.05-09.57.47:671][953]LogSlate: Window 'SonicColorsJog' being destroyed
+[2020.02.05-09.57.48:754][  4]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.48:754][  4]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.48:754][  4]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.48:755][  4]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.48:755][  4]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.48:755][  4]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsRun
+[2020.02.05-09.57.48:755][  4]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.48:768][  4]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRun.SonicColorsRun
+[2020.02.05-09.57.50:102][  4]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.50:181][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.57.52:390][131]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRun.SonicColorsRun
+[2020.02.05-09.57.52:416][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.57.52:689][131]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.57.52:882][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.57.53:862][182]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsRun64B37A7F43E41E5E398100B70B83F98B.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRun.uasset'
+[2020.02.05-09.57.54:370][212]LogSlate: Window 'SonicColorsRun' being destroyed
+[2020.02.05-09.57.55:491][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost'
+[2020.02.05-09.57.55:491][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost' while loading NULL.
+[2020.02.05-09.57.55:491][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet'
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet' while loading NULL.
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog'
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog' while loading NULL.
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun'
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun' while loading NULL.
+[2020.02.05-09.57.55:492][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk'
+[2020.02.05-09.57.55:493][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk' while loading NULL.
+[2020.02.05-09.57.55:493][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast'
+[2020.02.05-09.57.55:493][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast' while loading NULL.
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost'
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost' while loading NULL.
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet'
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet' while loading NULL.
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog'
+[2020.02.05-09.57.55:494][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog' while loading NULL.
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun'
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun' while loading NULL.
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk'
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk' while loading NULL.
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast'
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast' while loading NULL.
+[2020.02.05-09.57.55:495][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost'
+[2020.02.05-09.57.55:496][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBoost.SonicColorsBoost Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBoost' while loading NULL.
+[2020.02.05-09.57.55:496][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast'
+[2020.02.05-09.57.55:497][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast.SonicColorsWalkFast Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:497][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalkFast' while loading NULL.
+[2020.02.05-09.57.55:497][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog'
+[2020.02.05-09.57.55:497][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsJog.SonicColorsJog Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:497][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJog' while loading NULL.
+[2020.02.05-09.57.55:497][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk'
+[2020.02.05-09.57.55:497][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsWalk.SonicColorsWalk Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:497][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsWalk' while loading NULL.
+[2020.02.05-09.57.55:498][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun'
+[2020.02.05-09.57.55:498][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsRun.SonicColorsRun Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:498][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRun' while loading NULL.
+[2020.02.05-09.57.55:498][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet'
+[2020.02.05-09.57.55:498][268]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsJet.SonicColorsJet Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:498][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsJet' while loading NULL.
+[2020.02.05-09.57.55:498][268]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.57.55:499][268]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsRunBlendspace
+[2020.02.05-09.57.55:499][268]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.57.55:499][268]LoadErrors: Error: The BlendSpace  SonicColorsRunBlendspace  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.02.05-09.57.55:526][268]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace.SonicColorsRunBlendspace
+[2020.02.05-09.57.58:084][268]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.57.58:197][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.58.08:603][723]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace.SonicColorsRunBlendspace
+[2020.02.05-09.58.08:632][723]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.58.08:902][723]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.58.09:088][723]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.58.28:404][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.58.28:888][904]LogSlate: Window 'SonicColorsRunBlendspace' being destroyed
+[2020.02.05-09.58.30:987][ 20]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.30:987][ 20]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.30:987][ 20]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.30:988][ 20]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.30:988][ 20]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.30:988][ 20]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsWalk
+[2020.02.05-09.58.30:988][ 20]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.31:002][ 20]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalk.SonicColorsWalk
+[2020.02.05-09.58.32:152][ 20]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.58.32:233][ 20]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.58.33:705][102]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalk.SonicColorsWalk
+[2020.02.05-09.58.33:733][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.58.34:020][102]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.58.34:212][102]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.58.35:232][153]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsWalkD627A3804F1877BA47414F86B68EA563.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalk.uasset'
+[2020.02.05-09.58.35:648][177]LogSlate: Window 'SonicColorsWalk' being destroyed
+[2020.02.05-09.58.38:107][310]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.38:107][310]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.38:107][310]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.38:107][310]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.38:108][310]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.58.38:108][310]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsWalkFast
+[2020.02.05-09.58.38:108][310]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.58.38:123][310]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalkFast.SonicColorsWalkFast
+[2020.02.05-09.58.39:098][310]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.58.39:183][310]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.58.40:993][411]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalkFast.SonicColorsWalkFast
+[2020.02.05-09.58.41:019][411]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.58.41:295][411]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.58.41:474][411]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.58.42:538][464]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsWalkFastB3BDF1064DDA128FDCC95FB3C11AA424.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalkFast.uasset'
+[2020.02.05-09.58.43:043][493]LogSlate: Window 'SonicColorsWalkFast' being destroyed
+[2020.02.05-09.59.33:031][843]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace.SonicColorsRunBlendspace
+[2020.02.05-09.59.33:048][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.59.33:399][843]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-09.59.54:592][431]LogSlate: Window 'SonicColorsRunBlendspace' being destroyed
+[2020.02.05-10.00.09:466][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-10.00.13:365][541]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.05-10.00.13:384][541]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MechanicRoom.MechanicRoom
+[2020.02.05-10.00.13:433][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.05-10.00.14:836][541]LogSlate: Window 'Save Content' being destroyed
+[2020.02.05-10.00.14:843][541]Cmd: MAP LOAD FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-10.00.14:844][541]LightingResults: New page: Lighting Build
+[2020.02.05-10.00.14:848][541]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.02.05-10.00.14:848][541]LoadErrors: New page: Loading map: MechanicRoom.umap
+[2020.02.05-10.00.14:848][541]MapCheck: New page: Map Check
+[2020.02.05-10.00.14:848][541]LightingResults: New page: Lighting Build
+[2020.02.05-10.00.14:875][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.05-10.00.14:970][541]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-10.00.14:999][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.05-10.00.15:027][541]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-10.00.15:027][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.02.05-10.00.15:027][541]LogFileHelpers: Loading map 'MechanicRoom' took 0.186
+[2020.02.05-10.00.20:683][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-10.00.37:216][835]LogAssetEditorManager: Opening Asset editor for AnimComposite /Game/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.SonicColorsIdleComposite
+[2020.02.05-10.00.37:232][835]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-10.00.37:569][835]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.05-10.00.38:747][900]LogSlate: Window 'SonicColorsIdleComposite' being destroyed
+[2020.02.05-10.01.18:696][279]Cmd: TRANSACTION UNDO
+[2020.02.05-10.01.18:697][279]LogEditorTransaction: Undo Create Actors
+[2020.02.05-10.01.20:592][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-10.01.20:767][401]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ModelSonic/SonicColorsModel/SonicColorsBase.SonicColorsBase
+[2020.02.05-10.01.20:786][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-10.01.21:077][402]LogRenderer: Reallocating scene render targets to support 912x672 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-10.01.39:560][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-10.01.40:441][664]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ModelSonic/SonicColorsModel/SonicColorsBase_PhysicsAsset.SonicColorsBase_PhysicsAsset
+[2020.02.05-10.01.40:450][664]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.02.05-10.01.40:461][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2020.02.05-10.01.40:461][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.02.05-10.01.40:494][664]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2020.02.05-10.01.40:712][664]LogSlate: Took 0.000606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.05-10.01.42:618][766]LogSlate: Window 'SonicColorsBase_PhysicsAsset' being destroyed
+[2020.02.05-10.01.42:631][767]LogRenderer: Reallocating scene render targets to support 1004x672 Format 10 NumSamples 1 (Frame:3710).
+[2020.02.05-10.02.19:713][608]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.05-10.02.21:022][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-10.02.22:656][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.05-10.02.23:610][777]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.05-10.02.23:720][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.05-10.02.23:752][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.05-10.02.23:776][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.05-10.02.43:380][ 48]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ModelSonic/SonicColorsModel/SonicColorsBase_PhysicsAsset.SonicColorsBase_PhysicsAsset
+[2020.02.05-10.02.57:112][ 48]LogSlate: Window 'Message' being destroyed
+[2020.02.05-10.03.00:856][ 48]LogSlate: Window 'Message' being destroyed
+[2020.02.05-10.03.00:866][ 48]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2020.02.05-10.03.00:866][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.02.05-10.03.00:893][ 48]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2020.02.05-10.03.16:678][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-10.03.16:679][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-10.03.16:679][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-10.03.16:696][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-10.03.16:697][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:697][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-10.03.16:697][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:698][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:698][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:698][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:698][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-10.03.16:699][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-10.03.16:699][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-10.03.16:699][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-10.03.16:699][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-10.03.16:699][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:700][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:700][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:701][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:701][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:702][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.02.05-10.03.16:702][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.02.05-10.03.16:702][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:702][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:703][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:703][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:704][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:705][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:705][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:705][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:706][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:706][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:706][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-10.03.16:718][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_1656 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:718][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_67 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:718][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_432 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:718][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_429 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3511 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3505 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3347 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_232 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_79 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_49 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_41 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_608 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_409 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_387 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:719][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_444 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-10.03.16:721][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-10.03.16:722][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:722][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-10.03.16:722][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-10.03.16:722][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:722][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-10.03.16:722][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:722][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:723][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:723][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:723][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-10.03.16:723][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:723][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:723][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:723][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-10.03.16:724][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-10.03.16:724][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-10.03.16:724][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-10.03.16:724][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-10.03.16:724][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:724][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-10.03.16:724][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Spindash Rev  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Jumpspin  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:732][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Ground  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:733][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:733][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Allow Collision  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:733][973]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-10.03.16:738][973]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] [0418.46] Compile of SonicColorsAnimationBlueprint failed. 64 Fatal Issue(s) 23 Warning(s) [in 68 ms] (/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint)
+[2020.02.05-10.03.16:859][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBase_Skeleton6F7658DE4B30421AF32021AE58026B9C.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/SonicColorsBase_Skeleton.uasset'
+[2020.02.05-10.03.17:007][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.05-10.03.17:089][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBase8767A1FA4396AD1872E027BA5F200029.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/SonicColorsBase.uasset'
+[2020.02.05-10.03.17:365][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsAnimationBlueprintD7F1944149ED45EC8254D79BC7F1E740.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.uasset'
+[2020.02.05-10.03.17:438][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBallLoop6C049FC2428D5850BD2B58855E1FB7CF.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBallLoop.uasset'
+[2020.02.05-10.03.17:500][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBrakeA26F7F76422E4273E57AFEA0E554BC37.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBrake.uasset'
+[2020.02.05-10.03.17:556][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsCrouchA44183284B149C6ECE3B59998EBBCB9F.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsCrouch.uasset'
+[2020.02.05-10.03.17:609][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsDamageF80E24C24C7AAB337B3C769A072679E2.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsDamage.uasset'
+[2020.02.05-10.03.17:662][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsFall08762D5C4ED7752A5D9850ADB5A1DC96.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsFall.uasset'
+[2020.02.05-10.03.17:713][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsHang6906222D499879A590EF1AB301C14D2E.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsHang.uasset'
+[2020.02.05-10.03.17:778][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdle00A2E4DB8E4E63F9112C77AA850CDDFF73.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle00.uasset'
+[2020.02.05-10.03.17:835][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdle01A793610C46DF9AEDB161528211F689BA.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle01.uasset'
+[2020.02.05-10.03.17:911][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdle02FF8E13FA414DC1C5628955AAFB126075.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle02.uasset'
+[2020.02.05-10.03.17:948][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBoost1872FF47438581368E711CAB4EB66A43.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsBoost.uasset'
+[2020.02.05-10.03.18:000][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdle0369A10F41407DA3196507B0A922CBAF0D.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdle03.uasset'
+[2020.02.05-10.03.18:031][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdleCompositeC7B83E4F44BE3606F664E6ABA778A1A1.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.uasset'
+[2020.02.05-10.03.18:072][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsIdleLoopBFF8271B4486B1F9B18C2CB72FEDE61D.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.uasset'
+[2020.02.05-10.03.18:101][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsJetDA71AA8140B8C6904084BB93A2941DFE.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJet.uasset'
+[2020.02.05-10.03.18:178][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsJog9296A9794B6DA8439D2D4DB85368459E.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsJog.uasset'
+[2020.02.05-10.03.18:250][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsRunC728A16D48056709B2FA95AB4F2586CB.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsRun.uasset'
+[2020.02.05-10.03.18:291][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsWalk2D55F640433B281805DD4283D30D9C35.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalk.uasset'
+[2020.02.05-10.03.18:317][973]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsWalkFastBE7E448F4A780992298B00809D02CD26.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/Animations/Regular/SonicColorsWalkFast.uasset'
+[2020.02.05-10.03.22:675][223]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.05-10.03.23:328][223]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.653 s
+[2020.02.05-10.03.23:328][223]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: 
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: Found circular redirect from /Game/ModelSonic/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton to /Game/ModelSonic/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton! Returning None instead
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: Stack: 
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7a232690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe79f04d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe79ed686f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe50c7ad31 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe50c6b0f4 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe50c2ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe50c7a9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4faf6ba9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4fba948a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4fba43a8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4fbae560 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4fac10b9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe4fac1308 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7c008bef UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7c00f390 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7bfea2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:329][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7c0a2a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7c010c95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7bef4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7bf70301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7bf5aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe7bf50414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe9798b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe9797ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe9798d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe9797c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffec3805b6d USER32.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffec3805562 USER32.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffe9798e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d25d3e UE4Editor.exe!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d3554c UE4Editor.exe!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d355ca UE4Editor.exe!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d4316c UE4Editor.exe!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d45b8e UE4Editor.exe!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffec33c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: [Callstack] 0x00007ffec3c0ced1 ntdll.dll!UnknownFunction []
+[2020.02.05-10.03.23:330][223]LogOutputDevice: Error: 
+[2020.02.05-10.03.23:372][223]LogStats:                SubmitErrorReport -  0.000 s

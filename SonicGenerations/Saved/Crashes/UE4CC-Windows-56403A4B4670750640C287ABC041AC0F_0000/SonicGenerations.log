@@ -1,0 +1,1524 @@
+﻿Log file open, 02/05/20 03:17:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SonicGenerations
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185453
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.05-09.17.05:512][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.05-09.17.05:512][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.05-09.17.05:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.05-09.17.05:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:514][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:521][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-09.17.05:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-09.17.05:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-09.17.05:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-09.17.05:524][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-09.17.05:525][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-09.17.05:525][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-09.17.05:525][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.05-09.17.05:582][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.05-09.17.05:582][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.05-09.17.05:582][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-09.17.05:582][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-09.17.05:583][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-09.17.05:584][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-09.17.05:585][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.05-09.17.05:585][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.05-09.17.05:585][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.05-09.17.05:585][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.05-09.17.05:585][  0]LogInit: Computer: LAPTOP-BGAV0320
+[2020.02.05-09.17.05:585][  0]LogInit: User: ramse
+[2020.02.05-09.17.05:585][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.05-09.17.05:585][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.05-09.17.05:586][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.05-09.17.05:586][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.05-09.17.05:586][  0]LogMemory: Process Physical Memory: 96.89 MB used, 96.89 MB peak
+[2020.02.05-09.17.05:586][  0]LogMemory: Process Virtual Memory: 92.21 MB used, 92.21 MB peak
+[2020.02.05-09.17.05:586][  0]LogMemory: Physical Memory: 6309.21 MB used,  9949.95 MB free, 16259.16 MB total
+[2020.02.05-09.17.05:586][  0]LogMemory: Virtual Memory: 4632.94 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.02.05-09.17.05:648][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.02.05-09.17.05:648][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.02.05-09.17.05:805][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.05-09.17.05:833][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.05-09.17.05:833][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.05-09.17.06:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-09.17.06:030][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.05-09.17.06:108][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.05-09.17.06:108][  0]LogD3D11RHI:       1979/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.05-09.17.06:155][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.05-09.17.06:155][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.05-09.17.06:157][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-09.17.06:157][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-09.17.06:157][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.05-09.17.06:189][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.05-09.17.06:189][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.02.05-09.17.06:189][  0]LogWindows: EnumDisplayDevices:
+[2020.02.05-09.17.06:190][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.05-09.17.06:190][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.05-09.17.06:190][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.05-09.17.06:190][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.05-09.17.06:190][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.05-09.17.06:190][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.05-09.17.06:190][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.05-09.17.06:191][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.02.05-09.17.06:237][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.05-09.17.06:324][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.17.06:324][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.17.06:324][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.05-09.17.06:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.05-09.17.06:647][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.05-09.17.06:662][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.05-09.17.06:677][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.05-09.17.06:694][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.05-09.17.06:711][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.05-09.17.06:726][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.05-09.17.06:742][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.05-09.17.06:758][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.05-09.17.06:765][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.05-09.17.06:856][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.05-09.17.06:858][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.05-09.17.06:909][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.05-09.17.06:909][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.05-09.17.06:934][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.05-09.17.06:934][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.05-09.17.06:947][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.05-09.17.06:959][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.05-09.17.06:972][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.05-09.17.06:985][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.05-09.17.07:030][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.05-09.17.07:030][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.05-09.17.07:030][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.05-09.17.07:040][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.05-09.17.07:095][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Intermediate/Shaders/WorkingDirectory/13044/).
+[2020.02.05-09.17.07:095][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramse/AppData/Local/Temp/UnrealShaderWorkingDir/D3FD64074B23636D63668994A91B6861/'.
+[2020.02.05-09.17.07:097][  0]LogXGEController: Cleaning working directory: C:/Users/ramse/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.05-09.17.07:098][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.05-09.17.07:098][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.05-09.17.07:098][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.05-09.17.07:673][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-09.17.07:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.05-09.17.07:735][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.05-09.17.07:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-09.17.07:735][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.05-09.17.07:747][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.05-09.17.07:747][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.05-09.17.07:747][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.05-09.17.07:772][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.05-09.17.07:773][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.05-09.17.07:774][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.05-09.17.07:860][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2020.02.05-09.17.08:193][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-09.17.08:335][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.05-09.17.08:335][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.05-09.17.08:335][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.05-09.17.08:335][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.05-09.17.08:335][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.05-09.17.08:347][  0]LogNetVersion: SonicGenerations 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3921513358)
+[2020.02.05-09.17.08:788][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.060081 seconds
+[2020.02.05-09.17.08:794][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.05-09.17.08:794][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.05-09.17.08:794][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.05-09.17.09:646][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.05-09.17.09:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.05-09.17.09:811][  0]SourceControl: Source control is disabled
+[2020.02.05-09.17.09:811][  0]SourceControl: Source control is disabled
+[2020.02.05-09.17.09:813][  0]SourceControl: Source control is disabled
+[2020.02.05-09.17.09:814][  0]SourceControl: Source control is disabled
+[2020.02.05-09.17.09:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.05-09.17.09:987][  0]LogOcInput: OculusInput pre-init called
+[2020.02.05-09.17.10:713][  0]LogEngine: Initializing Engine...
+[2020.02.05-09.17.10:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-09.17.10:715][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.05-09.17.10:939][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.05-09.17.10:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.05-09.17.10:982][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-09.17.11:026][  0]LogInit: FAudioDevice initialized.
+[2020.02.05-09.17.11:026][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.05-09.17.11:606][  0]LogDerivedDataCache: Saved boot cache 0.58s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.05-09.17.11:632][  0]LogInit: Texture streaming: Enabled
+[2020.02.05-09.17.11:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.05-09.17.11:726][  0]LogInit: Transaction tracking system initialized
+[2020.02.05-09.17.11:752][  0]BlueprintLog: New page: Editor Load
+[2020.02.05-09.17.11:844][  0]LocalizationService: Localization service is disabled
+[2020.02.05-09.17.11:944][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.05-09.17.11:944][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.05-09.17.11:944][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2020.02.05-09.17.12:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/' took 0.01s
+[2020.02.05-09.17.12:143][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.05-09.17.12:143][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.05-09.17.12:322][  0]SourceControl: Source control is disabled
+[2020.02.05-09.17.12:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-09.17.12:323][  0]LightingResults: New page: Lighting Build
+[2020.02.05-09.17.12:326][  0]MapCheck: New page: Map Check
+[2020.02.05-09.17.12:326][  0]LightingResults: New page: Lighting Build
+[2020.02.05-09.17.12:351][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.05-09.17.13:818][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.05-09.17.13:846][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-09.17.13:880][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.05-09.17.13:880][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-09.17.13:880][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.02.05-09.17.13:880][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.558
+[2020.02.05-09.17.14:043][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.14:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.14:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.14:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.14:077][  0]LogCollectionManager: Loaded 0 collections in 0.002007 seconds
+[2020.02.05-09.17.14:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Collections/' took 0.01s
+[2020.02.05-09.17.14:093][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Developers/ramse/Collections/' took 0.00s
+[2020.02.05-09.17.14:093][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Collections/' took 0.00s
+[2020.02.05-09.17.14:093][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.05-09.17.14:101][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2732 classes and 659 folders.
+[2020.02.05-09.17.14:108][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.17.14:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.05-09.17.14:155][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.17.14:161][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.05-09.17.14:228][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.05-09.17.14:230][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.05-09.17.14:234][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.05-09.17.14:290][  0]LogRenderer: Reallocating scene render targets to support 1120x416 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-09.17.14:446][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.05-09.17.14:446][  0]LogLoad: (Engine Initialization) Total time: 11.28 seconds
+[2020.02.05-09.17.14:446][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.05-09.17.14:496][  0]LogAssetRegistry: Asset discovery search completed in 6.6576 seconds
+[2020.02.05-09.17.14:498][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.02.05-09.17.14:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.02.05-09.17.14:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.05-09.17.14:527][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-09.17.15:818][  4]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-09.17.21:857][ 22]LogLinker: Warning: Can't find file '/Game/SonicForces/Sonic/SK_Sonic'
+[2020.02.05-09.17.21:858][ 22]LogLinker: Warning: Can't find file '/Game/SonicForces/Sonic/SK_Sonic'
+[2020.02.05-09.17.21:858][ 22]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SonicForces/Sonic/SK_Sonic.SK_Sonic'
+[2020.02.05-09.17.36:577][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.17.40:143][485]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Animations/BP_SonicAnim.BP_SonicAnim
+[2020.02.05-09.17.40:163][485]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.05-09.17.40:366][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.17.40:370][485]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.02.05-09.17.40:611][485]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.05-09.17.41:647][485]LogSlate: Took 0.028320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.05-09.17.49:931][978]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-09.17.49:944][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.05-09.17.49:945][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-09.17.49:945][978]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2020, 9:17:49 PM)
+[2020.02.05-09.17.49:958][978]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.05-09.17.49:973][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014236s)
+[2020.02.05-09.17.49:973][978]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.05-09.17.49:974][978]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.02.05-09.17.49:974][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015577s)
+[2020.02.05-09.17.50:018][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.05-09.17.50:027][978]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.05-09.17.50:040][978]LogInit: FAudioDevice initialized.
+[2020.02.05-09.17.50:093][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.05-09.17.50:098][978]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.05-03.17.50
+[2020.02.05-09.17.50:099][978]LogWorld: Bringing up level for play took: 0.003779
+[2020.02.05-09.17.50:122][978]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.05-09.17.50:129][978]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.05-09.17.50:130][978]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.02.05-09.17.50:132][978]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.216
+[2020.02.05-09.17.50:132][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.05-09.17.54:965][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.05-09.17.54:965][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.54:997][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-09.17.54:997][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.05-09.17.55:056][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-09.17.55:076][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.02.05-09.17.55:096][250]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.05-09.19.18:122][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.26.55:996][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.26.55:997][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.26.55:997][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.26.55:997][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.26.55:997][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.26.55:998][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.26.55:998][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicGreenEye'
+[2020.02.05-09.26.55:998][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicGreenEye' while loading NULL.
+[2020.02.05-09.26.55:998][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.26.55:998][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.26.55:999][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicGreenEye'
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicGreenEye' while loading NULL.
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset'
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.26.56:000][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset'
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.26.56:001][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.26.56:002][549]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsBase
+[2020.02.05-09.26.56:002][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.26.56:002][549]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset'
+[2020.02.05-09.26.56:002][549]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_PhysicsAsset.SonicColorsBase_PhysicsAsset Referenced by SonicColorsBase
+[2020.02.05-09.26.56:002][549]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.26.56:003][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.26.56:003][549]LoadErrors: Failed to load /Game/Materials/Player/SonicBody.SonicBody Referenced by SonicColorsBase
+[2020.02.05-09.26.56:003][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.26.56:003][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.26.56:003][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.26.56:003][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.26.56:003][549]LoadErrors: Failed to load /Game/Materials/Player/SonicShoes.SonicShoes Referenced by SonicColorsBase
+[2020.02.05-09.26.56:004][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.26.56:004][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.26.56:004][549]LoadErrors: Failed to load /Game/Materials/Player/SonicCloth.SonicCloth Referenced by SonicColorsBase
+[2020.02.05-09.26.56:004][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.26.56:004][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.26.56:004][549]LoadErrors: Failed to load /Game/Materials/Player/GoldMat.GoldMat Referenced by SonicColorsBase
+[2020.02.05-09.26.56:004][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.26.56:005][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicGreenEye'
+[2020.02.05-09.26.56:005][549]LoadErrors: Failed to load /Game/Materials/Player/SonicGreenEye.SonicGreenEye Referenced by SonicColorsBase
+[2020.02.05-09.26.56:005][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicGreenEye' while loading NULL.
+[2020.02.05-09.26.56:005][549]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicGreenEye'
+[2020.02.05-09.26.56:005][549]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicGreenEye' while loading NULL.
+[2020.02.05-09.26.56:010][549]LogSkeletalMesh: Building Skeletal Mesh SonicColorsBase...
+[2020.02.05-09.26.56:015][549]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModelSonic/SonicColorsModel/SonicColorsBase.SonicColorsBase
+[2020.02.05-09.26.56:031][549]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ModelSonic/SonicColorsModel/SonicColorsBase.SonicColorsBase
+[2020.02.05-09.27.00:158][549]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.27.00:197][549]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.27.06:721][549]LogSlate: Window 'Choose Skeleton' being destroyed
+[2020.02.05-09.27.06:764][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.05-09.27.07:097][549]LogRenderer: Reallocating scene render targets to support 1120x672 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-09.27.12:764][859]LogSlate: Window 'SonicColorsBase' being destroyed
+[2020.02.05-09.27.17:827][158]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicColorsBase74EAB01F4A9457794407EBA7DFD987AC.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/ModelSonic/SonicColorsModel/SonicColorsBase.uasset'
+[2020.02.05-09.27.29:340][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.27.29:340][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.27.29:341][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.27.29:341][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.27.29:341][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.27.29:341][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.27.29:341][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicRedEye'
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicRedEye' while loading NULL.
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicSuperBody'
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicSuperBody' while loading NULL.
+[2020.02.05-09.27.29:342][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.27.29:343][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicRedEye'
+[2020.02.05-09.27.29:344][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicRedEye' while loading NULL.
+[2020.02.05-09.27.29:344][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.27.29:344][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.27.29:344][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicSuperBody'
+[2020.02.05-09.27.29:344][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicSuperBody' while loading NULL.
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset'
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset'
+[2020.02.05-09.27.29:345][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.27.29:346][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.29:346][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.29:346][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.29:346][841]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:346][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.29:347][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset'
+[2020.02.05-09.27.29:347][841]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset.SonicColorsSuperBase_PhysicsAsset Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:347][841]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsSuperBase_PhysicsAsset' while loading NULL.
+[2020.02.05-09.27.29:347][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicSuperBody'
+[2020.02.05-09.27.29:347][841]LoadErrors: Failed to load /Game/Materials/Player/SonicSuperBody.SonicSuperBody Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:347][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicSuperBody' while loading NULL.
+[2020.02.05-09.27.29:348][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicBody'
+[2020.02.05-09.27.29:348][841]LoadErrors: Failed to load /Game/Materials/Player/SonicBody.SonicBody Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:348][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicBody' while loading NULL.
+[2020.02.05-09.27.29:348][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicShoes'
+[2020.02.05-09.27.29:348][841]LoadErrors: Failed to load /Game/Materials/Player/SonicShoes.SonicShoes Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:348][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicShoes' while loading NULL.
+[2020.02.05-09.27.29:348][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicCloth'
+[2020.02.05-09.27.29:348][841]LoadErrors: Failed to load /Game/Materials/Player/SonicCloth.SonicCloth Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:349][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicCloth' while loading NULL.
+[2020.02.05-09.27.29:349][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/GoldMat'
+[2020.02.05-09.27.29:349][841]LoadErrors: Failed to load /Game/Materials/Player/GoldMat.GoldMat Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:349][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/GoldMat' while loading NULL.
+[2020.02.05-09.27.29:349][841]LogLinker: Warning: Can't find file '/Game/Materials/Player/SonicRedEye'
+[2020.02.05-09.27.29:349][841]LoadErrors: Failed to load /Game/Materials/Player/SonicRedEye.SonicRedEye Referenced by SonicColorsSuperBase
+[2020.02.05-09.27.29:349][841]LogLinker: Warning: Can't find file for asset '/Game/Materials/Player/SonicRedEye' while loading NULL.
+[2020.02.05-09.27.29:353][841]LogSkeletalMesh: Building Skeletal Mesh SonicColorsSuperBase...
+[2020.02.05-09.27.29:358][841]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ModelSonic/SonicColorsModel/SonicColorsSuperBase.SonicColorsSuperBase
+[2020.02.05-09.27.29:381][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsSuperBase'
+[2020.02.05-09.27.29:381][841]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsSuperBase'
+[2020.02.05-09.27.29:381][841]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SonicColorsModel/SonicColorsSuperBase.SonicColorsSuperBase'
+[2020.02.05-09.27.29:389][842]LogAnimation: Warning: SkeletalMesh SonicColorsSuperBase has no skeleton. This needs to fixed before an animation can be set
+[2020.02.05-09.27.30:685][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.05-09.27.32:320][914]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.05-09.27.32:447][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.05-09.27.32:481][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.05-09.27.32:520][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.02.05-09.27.32:555][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.05-09.27.38:981][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.38:981][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.38:981][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.38:981][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.38:982][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.38:982][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.38:982][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.38:982][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.38:982][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.38:983][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.38:983][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.38:983][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.38:983][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.38:984][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.38:984][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.38:984][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.38:984][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.38:984][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.38:985][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.38:985][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.38:985][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.38:985][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.38:985][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.38:986][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.38:986][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.38:986][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:987][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:988][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:988][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:988][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:988][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:989][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:990][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.38:990][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.38:990][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.38:990][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.38:990][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.38:991][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.38:992][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.38:993][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.38:994][299]LogLinker: Warning: Can't find file '/Game/Sounds/SuperChange'
+[2020.02.05-09.27.38:995][299]LogLinker: Warning: Can't find file for asset '/Game/Sounds/SuperChange' while loading NULL.
+[2020.02.05-09.27.38:995][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.38:996][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.38:996][299]LogLinker: Warning: Can't find file '/Game/Sounds/SuperChange'
+[2020.02.05-09.27.38:996][299]LogLinker: Warning: Can't find file for asset '/Game/Sounds/SuperChange' while loading NULL.
+[2020.02.05-09.27.38:997][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.38:997][299]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.38:997][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.39:000][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.39:001][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.39:002][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.39:003][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:004][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:005][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:006][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:007][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.39:008][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.39:009][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.39:010][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file '/Game/Sounds/SuperChange'
+[2020.02.05-09.27.39:011][299]LogLinker: Warning: Can't find file for asset '/Game/Sounds/SuperChange' while loading NULL.
+[2020.02.05-09.27.39:012][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.39:012][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.39:012][299]LogLinker: Warning: Can't find file '/Game/Sounds/SuperChange'
+[2020.02.05-09.27.39:012][299]LogLinker: Warning: Can't find file for asset '/Game/Sounds/SuperChange' while loading NULL.
+[2020.02.05-09.27.39:012][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.39:013][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsDamage.SonicColorsDamage Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:013][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.39:013][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.39:013][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall.SonicColorsSuperFall Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:013][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.39:013][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.39:013][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsFall.SonicColorsFall Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:014][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.39:014][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.39:014][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite.SonicColorsTransformationComposite Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:014][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.39:014][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.39:014][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake.SonicColorsSuperBrake Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:015][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.39:015][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.39:015][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBrake.SonicColorsBrake Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:015][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.39:015][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:015][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop.SonicColorsBallLoop Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:015][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:016][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:016][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:016][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:016][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:016][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.39:016][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch.SonicColorsSuperCrouch Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:017][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.39:017][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.39:017][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch.SonicColorsCrouch Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:017][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.39:017][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.39:017][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace.SonicColorsSuperRunBlendspace Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:017][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:018][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.39:018][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace.SonicColorsRunBlendspace Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:018][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:018][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.39:018][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle.SonicColorsSuperIdle Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:018][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.39:019][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.39:019][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.SonicColorsIdleComposite Referenced by Default__SonicColorsAnimationBlueprint_C
+[2020.02.05-09.27.39:019][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.39:019][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.27.39:019][299]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsAnimationBlueprint
+[2020.02.05-09.27.39:019][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.27.39:024][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:024][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_DynamicCast_1406
+[2020.02.05-09.27.39:024][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:024][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:025][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37925
+[2020.02.05-09.27.39:025][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:025][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:025][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_2293
+[2020.02.05-09.27.39:025][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:025][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:026][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37937
+[2020.02.05-09.27.39:026][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:026][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:026][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_1457
+[2020.02.05-09.27.39:026][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:027][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:027][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37943
+[2020.02.05-09.27.39:027][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:027][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:027][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_2155
+[2020.02.05-09.27.39:027][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:028][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:028][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37949
+[2020.02.05-09.27.39:028][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:028][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:028][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_2096
+[2020.02.05-09.27.39:029][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:029][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:029][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37955
+[2020.02.05-09.27.39:029][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:032][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:032][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_19159
+[2020.02.05-09.27.39:032][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:032][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:032][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37961
+[2020.02.05-09.27.39:032][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:033][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:033][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_DynamicCast_1411
+[2020.02.05-09.27.39:033][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:034][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:034][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37970
+[2020.02.05-09.27.39:034][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:035][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:035][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableSet_23502
+[2020.02.05-09.27.39:035][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:035][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:035][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37984
+[2020.02.05-09.27.39:035][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:036][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:036][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_DynamicCast_269
+[2020.02.05-09.27.39:036][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:036][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:036][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_37997
+[2020.02.05-09.27.39:037][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:037][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:037][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableSet_23640
+[2020.02.05-09.27.39:038][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:038][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:038][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_38011
+[2020.02.05-09.27.39:038][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:039][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:039][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_10867
+[2020.02.05-09.27.39:039][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:040][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:040][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_38021
+[2020.02.05-09.27.39:040][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:040][299]LogLinker: Warning: Can't find file '/Game/Sounds/SuperChange'
+[2020.02.05-09.27.39:040][299]LoadErrors: Failed to load /Game/Sounds/SuperChange.SuperChange Referenced by EdGraphPin_28315
+[2020.02.05-09.27.39:040][299]LogLinker: Warning: Can't find file for asset '/Game/Sounds/SuperChange' while loading NULL.
+[2020.02.05-09.27.39:041][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:041][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableSet_5341
+[2020.02.05-09.27.39:041][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:042][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:042][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_38029
+[2020.02.05-09.27.39:042][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:046][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:047][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by K2Node_VariableGet_3960
+[2020.02.05-09.27.39:047][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:047][299]LogLinker: Warning: Can't find file '/Game/Blueprints/CharacterPawn'
+[2020.02.05-09.27.39:047][299]LoadErrors: Failed to load /Game/Blueprints/CharacterPawn.CharacterPawn_C Referenced by EdGraphPin_38039
+[2020.02.05-09.27.39:047][299]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/CharacterPawn' while loading NULL.
+[2020.02.05-09.27.39:048][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite'
+[2020.02.05-09.27.39:049][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite.SonicColorsIdleComposite Referenced by AnimGraphNode_SequencePlayer_67
+[2020.02.05-09.27.39:049][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleComposite' while loading NULL.
+[2020.02.05-09.27.39:049][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle'
+[2020.02.05-09.27.39:049][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle.SonicColorsSuperIdle Referenced by AnimGraphNode_SequencePlayer_1656
+[2020.02.05-09.27.39:050][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperIdle' while loading NULL.
+[2020.02.05-09.27.39:051][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace'
+[2020.02.05-09.27.39:051][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace.SonicColorsRunBlendspace Referenced by AnimGraphNode_BlendSpacePlayer_429
+[2020.02.05-09.27.39:051][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:051][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace'
+[2020.02.05-09.27.39:052][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace.SonicColorsSuperRunBlendspace Referenced by AnimGraphNode_BlendSpacePlayer_432
+[2020.02.05-09.27.39:052][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRunBlendspace' while loading NULL.
+[2020.02.05-09.27.39:055][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch'
+[2020.02.05-09.27.39:055][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch.SonicColorsCrouch Referenced by AnimGraphNode_SequencePlayer_3505
+[2020.02.05-09.27.39:056][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsCrouch' while loading NULL.
+[2020.02.05-09.27.39:056][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch'
+[2020.02.05-09.27.39:056][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch.SonicColorsSuperCrouch Referenced by AnimGraphNode_SequencePlayer_3511
+[2020.02.05-09.27.39:056][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperCrouch' while loading NULL.
+[2020.02.05-09.27.39:058][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:058][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop.SonicColorsBallLoop Referenced by AnimGraphNode_SequencePlayer_3347
+[2020.02.05-09.27.39:058][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:062][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:062][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop.SonicColorsBallLoop Referenced by AnimGraphNode_SequencePlayer_232
+[2020.02.05-09.27.39:063][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:065][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop'
+[2020.02.05-09.27.39:065][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop.SonicColorsBallLoop Referenced by AnimGraphNode_SequencePlayer_79
+[2020.02.05-09.27.39:065][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBallLoop' while loading NULL.
+[2020.02.05-09.27.39:067][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake'
+[2020.02.05-09.27.39:068][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsBrake.SonicColorsBrake Referenced by AnimGraphNode_SequencePlayer_41
+[2020.02.05-09.27.39:068][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsBrake' while loading NULL.
+[2020.02.05-09.27.39:068][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake'
+[2020.02.05-09.27.39:068][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake.SonicColorsSuperBrake Referenced by AnimGraphNode_SequencePlayer_49
+[2020.02.05-09.27.39:068][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBrake' while loading NULL.
+[2020.02.05-09.27.39:070][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite'
+[2020.02.05-09.27.39:070][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite.SonicColorsTransformationComposite Referenced by AnimGraphNode_SequencePlayer_608
+[2020.02.05-09.27.39:070][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsTransformationComposite' while loading NULL.
+[2020.02.05-09.27.39:072][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall'
+[2020.02.05-09.27.39:073][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsFall.SonicColorsFall Referenced by AnimGraphNode_SequencePlayer_387
+[2020.02.05-09.27.39:073][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsFall' while loading NULL.
+[2020.02.05-09.27.39:073][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall'
+[2020.02.05-09.27.39:073][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall.SonicColorsSuperFall Referenced by AnimGraphNode_SequencePlayer_409
+[2020.02.05-09.27.39:073][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperFall' while loading NULL.
+[2020.02.05-09.27.39:081][299]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage'
+[2020.02.05-09.27.39:081][299]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsDamage.SonicColorsDamage Referenced by AnimGraphNode_SequencePlayer_444
+[2020.02.05-09.27.39:081][299]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsDamage' while loading NULL.
+[2020.02.05-09.27.39:097][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.27.39:097][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.27.39:098][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.27.39:126][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-09.27.39:127][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:127][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-09.27.39:127][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-09.27.39:127][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:127][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-09.27.39:127][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:128][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:128][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:128][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-09.27.39:129][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-09.27.39:129][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-09.27.39:129][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.27.39:129][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.27.39:129][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:129][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:129][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:129][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] SonicColorsAnimationBlueprint  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2020.02.05-09.27.39:131][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-09.27.39:131][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:131][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-09.27.39:131][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:132][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:132][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-09.27.39:132][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:133][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:133][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:133][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-09.27.39:133][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-09.27.39:133][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-09.27.39:134][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.27.39:134][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.27.39:134][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:134][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.27.39:134][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Spindash Rev  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Jumpspin  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:135][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Ground  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:136][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:136][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Allow Collision  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:136][299]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.27.39:141][299]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] [0635.98] Compile of SonicColorsAnimationBlueprint failed. 35 Fatal Issue(s) 23 Warning(s) [in 53 ms] (/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint)
+[2020.02.05-09.27.39:162][299]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint
+[2020.02.05-09.27.40:817][299]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.27.42:487][397]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint
+[2020.02.05-09.27.45:343][397]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.27.47:877][547]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint
+[2020.02.05-09.27.49:165][547]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.27.49:243][547]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.27.54:076][832]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.05-09.27.54:077][832]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.05-09.27.54:077][832]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SonicColorsModel/SonicColorsBase.SonicColorsBase'
+[2020.02.05-09.28.08:744][712]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.28.17:100][209]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint
+[2020.02.05-09.28.18:470][209]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.28.18:548][209]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.28.31:376][971]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ModelSonic/SkeletalMeshes/Sonic_Skeleton.Sonic_Skeleton
+[2020.02.05-09.28.31:376][971]LogLinker: Warning: Can't find file '/Game/SkeletalMeshes/SonicMesh'
+[2020.02.05-09.28.31:377][971]LogLinker: Warning: Can't find file '/Game/SkeletalMeshes/SonicMesh'
+[2020.02.05-09.28.31:377][971]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SkeletalMeshes/SonicMesh.SonicMesh'
+[2020.02.05-09.28.38:422][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.28.42:266][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-09.28.42:366][573]LogSlate: Window 'Sonic_Skeleton' being destroyed
+[2020.02.05-09.28.46:146][791]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint
+[2020.02.05-09.28.47:334][791]LogSlate: Window 'Message' being destroyed
+[2020.02.05-09.28.47:340][791]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.28.47:499][791]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.05-09.28.51:649][ 33]LogBlueprint: Warning: [SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.28.51:649][ 33]LogBlueprint: Warning: [SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.28.51:650][ 33]LogBlueprint: Warning: [SonicColorsAnimationBlueprint] RecreatePinForVariable: 'Output_Get' pin not found
+[2020.02.05-09.28.51:666][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:667][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-09.28.51:668][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:669][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:670][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:670][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:671][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.02.05-09.28.51:671][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Blendspace Player '(None)'  references an unknown blend space
+[2020.02.05-09.28.51:672][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:672][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:672][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:673][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:673][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:674][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:674][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:674][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:675][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:675][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:675][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Play (None)  references an unknown sequence
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_1656 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_67 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_432 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_BlendSpacePlayer_429 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3511 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3505 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_3347 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_232 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_79 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_49 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_41 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_608 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_409 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_387 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:687][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Missing allocated node for AnimGraphNode_SequencePlayer_444 while searching for node links - likely due to the node having outstanding errors.
+[2020.02.05-09.28.51:689][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SuperForm
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set AllowCollision . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "AllowCollision" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set AllowCollision
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SpindashRev" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get SpindashRev
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set Action . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set Action
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  Target  no longer exists on node  Set SuperForm . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "SuperForm" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Set SuperForm
+[2020.02.05-09.28.51:690][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:691][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:691][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:691][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Jumpspin" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Jumpspin
+[2020.02.05-09.28.51:691][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Action" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Action
+[2020.02.05-09.28.51:691][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "Ground" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get Ground
+[2020.02.05-09.28.51:692][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.28.51:692][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] Could not find a variable named "XSpeed" in 'SonicColorsAnimationBlueprint'.
+Make sure 'SonicColorsAnimationBlueprint' has been compiled for  Get XSpeed
+[2020.02.05-09.28.51:692][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:692][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] In use pin  As Character Pawn C  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.05-09.28.51:692][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Spindash Rev  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Jumpspin  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  XSpeed  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:699][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Ground  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:700][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Super Form  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:700][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Allow Collision  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:700][ 33]LogBlueprint: Error: [Compiler SonicColorsAnimationBlueprint] The property associated with  Action  could not be found in '/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint_C'
+[2020.02.05-09.28.51:705][ 33]LogBlueprint: Warning: [Compiler SonicColorsAnimationBlueprint] [0708.54] Compile of SonicColorsAnimationBlueprint failed. 64 Fatal Issue(s) 20 Warning(s) [in 52 ms] (/Game/ModelSonic/SonicColorsModel/Animations/SonicColorsAnimationBlueprint.SonicColorsAnimationBlueprint)
+[2020.02.05-09.28.51:715][ 33]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.02.05-09.28.58:979][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.28.58:979][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.28.58:980][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.28.58:980][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.28.58:980][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:980][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:980][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:981][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:981][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop'
+[2020.02.05-09.28.58:981][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop.SonicColorsIdleLoop Referenced by SonicColorsSuperBase
+[2020.02.05-09.28.58:982][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Regular/SonicColorsIdleLoop' while loading NULL.
+[2020.02.05-09.28.58:982][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:982][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:983][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:984][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:984][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:984][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:984][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:984][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperBoost
+[2020.02.05-09.28.58:985][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:986][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:986][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:986][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:986][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:987][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:987][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperBrake
+[2020.02.05-09.28.58:987][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:989][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:989][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:989][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:989][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:990][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:990][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperChange
+[2020.02.05-09.28.58:990][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:991][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:991][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:991][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:992][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:992][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:992][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperCrouch
+[2020.02.05-09.28.58:992][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:994][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:994][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:994][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:994][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:995][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:995][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperFall
+[2020.02.05-09.28.58:995][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:996][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:997][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:997][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:997][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.58:997][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.58:997][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperIdle
+[2020.02.05-09.28.58:998][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:000][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:000][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:000][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:000][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:000][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:001][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperJet
+[2020.02.05-09.28.59:001][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:002][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:002][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:002][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:002][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:003][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:003][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperJog
+[2020.02.05-09.28.59:003][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:005][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:005][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:005][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:005][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:006][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:006][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperLoop
+[2020.02.05-09.28.59:006][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:007][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:007][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:007][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:007][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:007][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:007][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperRun
+[2020.02.05-09.28.59:008][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:009][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost'
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost' while loading NULL.
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet'
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet' while loading NULL.
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog'
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog' while loading NULL.
+[2020.02.05-09.28.59:010][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun'
+[2020.02.05-09.28.59:011][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun' while loading NULL.
+[2020.02.05-09.28.59:011][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk'
+[2020.02.05-09.28.59:011][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk' while loading NULL.
+[2020.02.05-09.28.59:011][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast'
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast' while loading NULL.
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost'
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost' while loading NULL.
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet'
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet' while loading NULL.
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog'
+[2020.02.05-09.28.59:012][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog' while loading NULL.
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun'
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun' while loading NULL.
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk'
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk' while loading NULL.
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast'
+[2020.02.05-09.28.59:013][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast' while loading NULL.
+[2020.02.05-09.28.59:014][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:014][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:014][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:014][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:014][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost'
+[2020.02.05-09.28.59:014][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost.SonicColorsSuperBoost Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:015][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBoost' while loading NULL.
+[2020.02.05-09.28.59:015][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk'
+[2020.02.05-09.28.59:015][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk.SonicColorsSuperWalk Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:015][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalk' while loading NULL.
+[2020.02.05-09.28.59:015][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast'
+[2020.02.05-09.28.59:015][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast.SonicColorsSuperWalkFast Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:016][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperWalkFast' while loading NULL.
+[2020.02.05-09.28.59:016][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog'
+[2020.02.05-09.28.59:016][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog.SonicColorsSuperJog Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:016][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJog' while loading NULL.
+[2020.02.05-09.28.59:016][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun'
+[2020.02.05-09.28.59:016][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun.SonicColorsSuperRun Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:017][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperRun' while loading NULL.
+[2020.02.05-09.28.59:017][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet'
+[2020.02.05-09.28.59:017][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet.SonicColorsSuperJet Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:017][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet' while loading NULL.
+[2020.02.05-09.28.59:017][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet'
+[2020.02.05-09.28.59:017][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperJet' while loading NULL.
+[2020.02.05-09.28.59:018][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:018][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperRunBlendspace
+[2020.02.05-09.28.59:018][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:018][461]LoadErrors: Error: The BlendSpace  SonicColorsSuperRunBlendspace  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.02.05-09.28.59:038][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase'
+[2020.02.05-09.28.59:038][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase' while loading NULL.
+[2020.02.05-09.28.59:038][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase'
+[2020.02.05-09.28.59:038][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase' while loading NULL.
+[2020.02.05-09.28.59:039][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase'
+[2020.02.05-09.28.59:039][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase.SonicColorsSuperBase Referenced by SonicColorsSuperSpinesAdditive
+[2020.02.05-09.28.59:039][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperBase' while loading NULL.
+[2020.02.05-09.28.59:040][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:040][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:040][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:040][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:041][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:041][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperWalk
+[2020.02.05-09.28.59:041][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:043][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:043][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:043][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:043][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:044][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:044][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsSuperWalkFast
+[2020.02.05-09.28.59:044][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:046][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange'
+[2020.02.05-09.28.59:046][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange' while loading NULL.
+[2020.02.05-09.28.59:046][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop'
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop' while loading NULL.
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange'
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange' while loading NULL.
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop'
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop' while loading NULL.
+[2020.02.05-09.28.59:047][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:048][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:048][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:048][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:048][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange'
+[2020.02.05-09.28.59:048][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange.SonicColorsSuperChange Referenced by SonicColorsTransformationComposite
+[2020.02.05-09.28.59:048][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperChange' while loading NULL.
+[2020.02.05-09.28.59:049][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop'
+[2020.02.05-09.28.59:049][461]LoadErrors: Failed to load /Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop.SonicColorsSuperLoop Referenced by SonicColorsTransformationComposite
+[2020.02.05-09.28.59:049][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/Animations/Super/SonicColorsSuperLoop' while loading NULL.
+[2020.02.05-09.28.59:049][461]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase_Skeleton'
+[2020.02.05-09.28.59:049][461]LoadErrors: Failed to load /Game/SonicColorsModel/SonicColorsBase_Skeleton.SonicColorsBase_Skeleton Referenced by SonicColorsTransformationComposite
+[2020.02.05-09.28.59:050][461]LogLinker: Warning: Can't find file for asset '/Game/SonicColorsModel/SonicColorsBase_Skeleton' while loading NULL.
+[2020.02.05-09.28.59:108][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.05-09.29.03:532][461]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.05-09.29.03:710][461]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.05-09.29.06:237][461]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.527 s
+[2020.02.05-09.29.06:237][461]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.05-09.29.06:237][461]LogOutputDevice: Error: 
+[2020.02.05-09.29.06:237][461]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: Cannot remove redirection from /Game/ModelSonic/SonicColorsModel/Animations/Super/SonicColorsSuperSpinesAdditive.SonicColorsSuperSpinesAdditive, it was not registered
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: Stack: 
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe7a231711 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe79f29887 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe89bbddbd UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe76d13805 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe76d1319e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe7657e2ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe767d0748 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe767d97c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe78032a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77e84021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77f00301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77eeaaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77ee0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:238][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c0ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c0c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffec3805b6d USER32.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffec3805562 USER32.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1e899 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77f0aa95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77eb012f UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe76862ce6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe76d12ab5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe4eb34851 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe4eb3e5de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe4eb3a30f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe4eb9120c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe4eb3b3f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe78032a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77e84021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77f00301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:239][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77eeaaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe77ee0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c0ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c0c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffec3805b6d USER32.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffec3805562 USER32.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffe91c1e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d25d3e UE4Editor.exe!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d3554c UE4Editor.exe!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d355ca UE4Editor.exe!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d4316c UE4Editor.exe!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ff6c4d45b8e UE4Editor.exe!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffec33c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: [Callstack] 0x00007ffec3c0ced1 ntdll.dll!UnknownFunction []
+[2020.02.05-09.29.06:240][461]LogOutputDevice: Error: 
+[2020.02.05-09.29.06:244][461]LogStats:                SubmitErrorReport -  0.000 s

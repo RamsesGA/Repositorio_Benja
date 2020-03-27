@@ -1,0 +1,1493 @@
+﻿Log file open, 02/11/20 15:10:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SonicGenerations
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204058
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:326][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:329][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.11-21.10.26:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.11-21.10.26:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.11-21.10.26:330][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.11-21.10.26:330][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.11-21.10.26:384][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.11-21.10.26:384][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.11-21.10.26:384][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.11-21.10.26:384][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.11-21.10.26:385][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.11-21.10.26:392][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.11-21.10.26:392][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.11-21.10.26:392][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.02.11-21.10.26:393][  0]LogInit: Computer: LAPTOP-BGAV0320
+[2020.02.11-21.10.26:393][  0]LogInit: User: ramse
+[2020.02.11-21.10.26:393][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.11-21.10.26:393][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.11-21.10.26:393][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.11-21.10.26:393][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.11-21.10.26:393][  0]LogMemory: Process Physical Memory: 98.43 MB used, 98.43 MB peak
+[2020.02.11-21.10.26:393][  0]LogMemory: Process Virtual Memory: 90.64 MB used, 90.64 MB peak
+[2020.02.11-21.10.26:393][  0]LogMemory: Physical Memory: 6393.14 MB used,  9866.02 MB free, 16259.16 MB total
+[2020.02.11-21.10.26:393][  0]LogMemory: Virtual Memory: 4631.38 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.02.11-21.10.26:418][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.02.11-21.10.26:418][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.02.11-21.10.26:696][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.11-21.10.26:870][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.11-21.10.26:870][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.11-21.10.33:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.11-21.10.33:976][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.11-21.10.34:045][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.11-21.10.34:045][  0]LogD3D11RHI:       1979/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.11-21.10.34:074][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.11-21.10.34:074][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.11-21.10.34:077][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.11-21.10.34:077][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.11-21.10.34:077][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.11-21.10.34:112][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.11-21.10.34:112][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.02.11-21.10.34:112][  0]LogWindows: EnumDisplayDevices:
+[2020.02.11-21.10.34:112][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.11-21.10.34:112][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.11-21.10.34:113][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.11-21.10.34:113][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.11-21.10.34:113][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.11-21.10.34:113][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.11-21.10.34:113][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.11-21.10.34:113][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.02.11-21.10.34:162][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.11-21.10.34:257][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.11-21.10.34:257][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.11-21.10.34:257][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.11-21.10.34:267][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.11-21.10.34:607][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.11-21.10.34:622][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.11-21.10.34:638][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.11-21.10.34:653][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.11-21.10.34:688][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.11-21.10.34:703][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.11-21.10.34:718][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.11-21.10.34:733][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.11-21.10.34:741][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.11-21.10.34:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.11-21.10.34:851][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.11-21.10.34:929][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.11-21.10.34:929][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.11-21.10.34:981][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.11-21.10.34:981][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.11-21.10.34:994][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.11-21.10.35:008][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.11-21.10.35:021][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.11-21.10.35:069][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.11-21.10.35:168][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.11-21.10.35:168][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.11-21.10.35:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.11-21.10.35:178][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.11-21.10.35:263][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Intermediate/Shaders/WorkingDirectory/22692/).
+[2020.02.11-21.10.35:263][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramse/AppData/Local/Temp/UnrealShaderWorkingDir/072FFAB64D5E04664391949C23797F26/'.
+[2020.02.11-21.10.35:265][  0]LogXGEController: Cleaning working directory: C:/Users/ramse/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.11-21.10.35:265][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.11-21.10.35:266][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.11-21.10.35:266][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.11-21.10.43:370][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: Loaded boot cache 0.54s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.11-21.10.43:907][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.11-21.10.43:925][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.11-21.10.43:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.11-21.10.43:925][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.11-21.10.43:938][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.11-21.10.43:938][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.11-21.10.43:938][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.11-21.10.43:963][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.11-21.10.43:964][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.11-21.10.44:108][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.11-21.10.46:195][  0]LogAssetRegistry: FAssetRegistry took 0.0476 seconds to start up
+[2020.02.11-21.10.46:536][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.11-21.10.46:816][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.11-21.10.46:816][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.11-21.10.46:816][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.11-21.10.46:816][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.11-21.10.46:816][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.11-21.10.46:832][  0]LogNetVersion: SonicGenerations 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3921513358)
+[2020.02.11-21.10.47:261][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051354 seconds
+[2020.02.11-21.10.47:267][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.11-21.10.47:267][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.11-21.10.47:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.11-21.11.15:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.11-21.11.15:291][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.11-21.11.15:436][  0]SourceControl: Source control is disabled
+[2020.02.11-21.11.15:436][  0]SourceControl: Source control is disabled
+[2020.02.11-21.11.15:438][  0]SourceControl: Source control is disabled
+[2020.02.11-21.11.15:439][  0]SourceControl: Source control is disabled
+[2020.02.11-21.11.15:676][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.11-21.11.15:792][  0]LogOcInput: OculusInput pre-init called
+[2020.02.11-21.11.16:816][  0]LogEngine: Initializing Engine...
+[2020.02.11-21.11.16:817][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.11-21.11.16:818][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.11-21.11.17:032][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.11-21.11.17:048][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.11-21.11.17:077][  0]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-21.11.17:099][  0]LogInit: FAudioDevice initialized.
+[2020.02.11-21.11.17:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.11-21.11.17:332][  0]LogDerivedDataCache: Saved boot cache 0.23s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.11-21.11.17:347][  0]LogInit: Texture streaming: Enabled
+[2020.02.11-21.11.17:394][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.11-21.11.17:426][  0]LogInit: Transaction tracking system initialized
+[2020.02.11-21.11.17:454][  0]BlueprintLog: New page: Editor Load
+[2020.02.11-21.11.17:672][  0]LocalizationService: Localization service is disabled
+[2020.02.11-21.11.17:789][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.11-21.11.17:789][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.02.11-21.11.17:789][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2020.02.11-21.11.18:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/' took 0.02s
+[2020.02.11-21.11.18:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.11-21.11.18:172][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.11-21.11.19:668][  0]SourceControl: Source control is disabled
+[2020.02.11-21.11.19:668][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.11-21.11.19:669][  0]LightingResults: New page: Lighting Build
+[2020.02.11-21.11.19:674][  0]MapCheck: New page: Map Check
+[2020.02.11-21.11.19:674][  0]LightingResults: New page: Lighting Build
+[2020.02.11-21.11.19:703][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.11-21.11.20:295][  0]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-21.11.22:563][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.11-21.11.22:621][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.11-21.11.22:621][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.11-21.11.22:621][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2020.02.11-21.11.22:621][  0]LogFileHelpers: Loading map 'MechanicRoom' took 2.953
+[2020.02.11-21.11.22:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-21.11.22:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-21.11.23:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-21.11.23:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-21.11.23:057][  0]LogCollectionManager: Loaded 0 collections in 0.003782 seconds
+[2020.02.11-21.11.23:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Collections/' took 0.01s
+[2020.02.11-21.11.23:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Developers/ramse/Collections/' took 0.00s
+[2020.02.11-21.11.23:073][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Collections/' took 0.00s
+[2020.02.11-21.11.23:073][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.11-21.11.23:083][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2732 classes and 659 folders.
+[2020.02.11-21.11.23:089][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.11-21.11.23:304][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:311][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.23:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.11-21.11.24:339][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.02.11-21.11.24:357][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2020.02.11-21.11.25:539][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.11-21.11.25:566][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.11-21.11.25:610][  0]LogSlate: Took 0.041166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.11-21.11.25:726][  0]LogSlate: Took 0.110309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.11-21.11.25:823][  0]LogRenderer: Reallocating scene render targets to support 852x452 Format 10 NumSamples 1 (Frame:1).
+[2020.02.11-21.11.26:120][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.11-21.11.26:120][  0]LogLoad: (Engine Initialization) Total time: 67.01 seconds
+[2020.02.11-21.11.26:120][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.11-21.11.26:207][  0]LogAssetRegistry: Asset discovery search completed in 40.0341 seconds
+[2020.02.11-21.11.26:209][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.11-21.11.26:209][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.02.11-21.11.26:211][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.11-21.11.26:608][  0]LogSlate: Took 0.370645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.11-21.11.27:639][  4]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.11-21.11.38:955][226]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.02.11-21.11.43:916][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-21.11.48:491][739]Cmd: DELETE
+[2020.02.11-21.11.48:491][739]Cmd: ACTOR DELETE
+[2020.02.11-21.11.48:500][739]LogEditorActor: Deleted Actor: PlayerStart
+[2020.02.11-21.11.48:528][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.11-21.11.48:528][739]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.11-21.12.26:012][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.26:512][439]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.27:013][440]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.30:832][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.32:832][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.12.34:831][529]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.12.35:332][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.37:332][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.12.39:332][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.12.39:833][531]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.12.41:833][531]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.12.43:832][531]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.14.52:004][675]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.16.02:814][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.16.04:814][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.16.06:812][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.16.07:314][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.16.09:314][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.16.11:313][918]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.16.11:815][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.16.13:814][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.16.15:815][919]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.17.48:203][387]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.23:005][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.23:505][272]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.24:007][273]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.36:519][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.38:520][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.19.40:518][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.19.41:020][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.43:021][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.19.45:019][619]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.19.45:520][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.11-21.19.47:520][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.19.49:521][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2020.02.11-21.21.26:312][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.02.11-21.21.26:608][210]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom_Auto17B59C1C043ED488FED8F9B81CB30FF79.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/Levels/MechanicRoom_Auto1.umap'
+[2020.02.11-21.21.26:616][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.330
+[2020.02.11-21.21.26:616][210]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.330
+[2020.02.11-21.34.37:782][591]LogHttp: Warning: 000001B4A3AF0900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.11-21.34.37:783][591]LogHttp: Warning: 000001B4A3AF0900: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2020.02.11-21.34.37:783][591]LogHttp: Warning: 000001B4A3AF0900: libcurl info message cache 1 (Closing connection 7)
+[2020.02.11-21.34.37:783][591]LogHttp: Warning: 000001B4A3AF0900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.11-21.34.37:783][591]LogHttp: Warning: 000001B4A3AF0900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.11-21.34.37:783][591]LogHttp: Warning: 000001B4A3AF0900: libcurl info message cache 4 (Closing connection 8)
+[2020.02.11-21.34.37:799][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34C5C2C4-4282-12F8-F4B8-F1A46E1A5B3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=07bef3d549fec398f795d59f50abe4e4%7C3fbc73e828984fb794bc41b5f2ed0ba7%7Cdf423277-66d3-438f-aaf4-10ebb7af35f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-22.22.14:066][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.22.19:184][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.02.11-22.22.19:184][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.02.11-22.22.19:185][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.02.11-22.22.19:185][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.02.11-22.22.19:185][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.02.11-22.22.19:185][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.02.11-22.22.19:185][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.02.11-22.22.19:191][ 52]LogBlueprint: Warning: [Compiler BP_SonicFBX] [4320.09] Compile of BP_SonicFBX successful, but with 7 Warning(s) [in 11 ms] (/Game/Character/BP_SonicFBX.BP_SonicFBX)
+[2020.02.11-22.22.22:074][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.22.22:191][201]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.22.22:208][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.22:208][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.22.22:209][201]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:22:22 AM)
+[2020.02.11-22.22.22:221][201]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.22.22:246][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024895s)
+[2020.02.11-22.22.22:247][201]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.22.22:247][201]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2020.02.11-22.22.22:247][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025972s)
+[2020.02.11-22.22.22:275][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.02.11-22.22.22:285][201]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.22.22:298][201]LogInit: FAudioDevice initialized.
+[2020.02.11-22.22.22:336][201]LogLoad: Game class is 'SonicGameMode_C'
+[2020.02.11-22.22.22:340][201]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.22.22
+[2020.02.11-22.22.22:361][201]LogWorld: Bringing up level for play took: 0.023508
+[2020.02.11-22.22.22:388][201]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.11-22.22.22:391][201]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.164
+[2020.02.11-22.22.22:392][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.24:181][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.24:181][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.24:216][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.22.24:217][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.24:244][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.24:247][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.11-22.22.24:282][304]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.11-22.22.26:383][428]LogEditorViewport: Clicking on Actor (LMB): BP_SonicFBX_C (BP_SonicFBX)
+[2020.02.11-22.22.26:716][441]Cmd: EDIT CUT
+[2020.02.11-22.22.26:729][441]LogEditorActor: Deleted Actor: BP_SonicFBX_C
+[2020.02.11-22.22.26:786][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.11-22.22.26:787][441]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.02.11-22.22.29:511][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.22.29:595][606]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.22.29:612][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.29:612][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.22.29:612][606]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:22:29 AM)
+[2020.02.11-22.22.29:612][606]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.22.29:636][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023370s)
+[2020.02.11-22.22.29:636][606]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.22.29:636][606]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2020.02.11-22.22.29:636][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023980s)
+[2020.02.11-22.22.29:661][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.11-22.22.29:668][606]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.22.29:679][606]LogInit: FAudioDevice initialized.
+[2020.02.11-22.22.29:705][606]LogLoad: Game class is 'SonicGameMode_C'
+[2020.02.11-22.22.29:708][606]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.22.29
+[2020.02.11-22.22.29:708][606]LogWorld: Bringing up level for play took: 0.001843
+[2020.02.11-22.22.29:723][606]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.505
+[2020.02.11-22.22.29:723][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.32:281][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.32:281][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.32:314][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.22.32:315][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.32:342][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.32:345][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.11-22.22.32:380][759]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.11-22.22.33:501][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.22.33:568][828]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.22.33:585][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.33:585][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.22.33:585][828]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:22:33 AM)
+[2020.02.11-22.22.33:585][828]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.22.33:609][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023513s)
+[2020.02.11-22.22.33:609][828]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.22.33:609][828]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2020.02.11-22.22.33:609][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.024131s)
+[2020.02.11-22.22.33:634][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.11-22.22.33:642][828]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.22.33:654][828]LogInit: FAudioDevice initialized.
+[2020.02.11-22.22.33:683][828]LogLoad: Game class is 'SonicGameMode_C'
+[2020.02.11-22.22.33:686][828]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.22.33
+[2020.02.11-22.22.33:686][828]LogWorld: Bringing up level for play took: 0.001896
+[2020.02.11-22.22.33:702][828]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.527
+[2020.02.11-22.22.33:702][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.36:393][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.36:394][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.36:424][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.22.36:425][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.36:453][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.36:456][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.11-22.22.36:504][982]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.11-22.22.51:911][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.11-22.22.52:864][821]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.11-22.22.53:022][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.11-22.22.53:053][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.11-22.22.53:077][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.11-22.22.55:232][949]LogLinker: Warning: Can't find file '/Game/Character/SonicGameMode'
+[2020.02.11-22.22.55:232][949]LogLinker: Warning: Can't find file '/Game/Character/SonicGameMode'
+[2020.02.11-22.22.55:232][949]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Character/SonicGameMode.SonicGameMode_C'
+[2020.02.11-22.22.57:260][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.22.57:278][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.57:279][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.22.57:279][ 66]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:22:57 AM)
+[2020.02.11-22.22.57:279][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.22.57:302][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022723s)
+[2020.02.11-22.22.57:302][ 66]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.22.57:302][ 66]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2020.02.11-22.22.57:302][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023318s)
+[2020.02.11-22.22.57:326][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.11-22.22.57:332][ 66]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.22.57:343][ 66]LogInit: FAudioDevice initialized.
+[2020.02.11-22.22.57:373][ 66]LogLoad: Game class is 'GameModeBase'
+[2020.02.11-22.22.57:376][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.22.57
+[2020.02.11-22.22.57:376][ 66]LogWorld: Bringing up level for play took: 0.001768
+[2020.02.11-22.22.57:389][ 66]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.839
+[2020.02.11-22.22.57:390][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.58:687][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.58:688][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.58:720][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.22.58:720][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.22.58:748][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.22.58:752][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.11-22.22.58:802][144]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.11-22.23.00:865][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.23.27:270][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.11-22.23.27:793][439]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom_Auto2678129D1416783AED735A0AF0B908954.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/Levels/MechanicRoom_Auto2.umap'
+[2020.02.11-22.23.27:799][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.554
+[2020.02.11-22.23.27:799][439]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.554
+[2020.02.11-22.24.17:761][840]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_SonicFBX.BP_SonicFBX
+[2020.02.11-22.24.18:281][840]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.11-22.24.19:216][840]LogSlate: Took 0.005341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.11-22.24.19:362][841]LogSlate: Took 0.004873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.11-22.25.31:133][134]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.25.31:137][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.02.11-22.25.31:137][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.02.11-22.25.31:137][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.02.11-22.25.31:137][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.02.11-22.25.31:138][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.02.11-22.25.31:138][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.02.11-22.25.31:138][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.02.11-22.25.31:329][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.11-22.25.31:345][134]LogBlueprint: Warning: [Compiler BP_SonicFBX] [4512.24] Compile of BP_SonicFBX successful, but with 7 Warning(s) [in 212 ms] (/Game/Character/BP_SonicFBX.BP_SonicFBX)
+[2020.02.11-22.26.17:967][162]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.26.27:381][483]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.11-22.26.27:382][483]LogLinker: Warning: Can't find file '/Game/SonicColorsModel/SonicColorsBase'
+[2020.02.11-22.26.27:382][483]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SonicColorsModel/SonicColorsBase.SonicColorsBase'
+[2020.02.11-22.26.55:431][ 51]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsHang.SonicColorsHang
+[2020.02.11-22.26.55:534][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.02.11-22.26.55:560][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.02.11-22.26.55:561][ 51]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.02.11-22.26.55:858][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.26.55:863][ 51]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.02.11-22.26.55:863][ 51]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.02.11-22.26.55:928][ 51]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.26.57:105][ 51]LogRenderer: Reallocating scene render targets to support 912x452 Format 10 NumSamples 1 (Frame:1).
+[2020.02.11-22.26.57:105][ 51]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.01:615][273]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsFall.SonicColorsFall
+[2020.02.11-22.27.01:634][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.01:664][273]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.02:027][273]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.06:277][488]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsDamage.SonicColorsDamage
+[2020.02.11-22.27.06:298][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.06:329][488]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.06:689][488]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.08:010][547]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsCrouch.SonicColorsCrouch
+[2020.02.11-22.27.08:025][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.08:063][547]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.08:415][547]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.09:993][613]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsBrake.SonicColorsBrake
+[2020.02.11-22.27.10:007][613]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.10:038][613]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.10:382][613]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.11:937][683]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsBoost.SonicColorsBoost
+[2020.02.11-22.27.11:957][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.12:010][683]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.13:691][754]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.13:827][762]LogSlate: Window 'SonicColorsBoost' being destroyed
+[2020.02.11-22.27.13:852][763]LogRenderer: Reallocating scene render targets to support 1064x564 Format 10 NumSamples 1 (Frame:4601).
+[2020.02.11-22.27.16:588][902]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsBallLoop.SonicColorsBallLoop
+[2020.02.11-22.27.16:607][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.16:636][902]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.16:988][902]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.19:864][ 43]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsJog.SonicColorsJog
+[2020.02.11-22.27.19:885][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.19:936][ 43]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.21:737][122]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.22:028][140]LogSlate: Window 'SonicColorsJog' being destroyed
+[2020.02.11-22.27.26:213][365]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Sonic/Animations/SonicColorsRun.SonicColorsRun
+[2020.02.11-22.27.26:237][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.26:289][365]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.27:851][429]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.28:009][439]LogSlate: Window 'SonicColorsRun' being destroyed
+[2020.02.11-22.27.34:331][794]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Sonic/Animations/SonicColorsRunBlendspace.SonicColorsRunBlendspace
+[2020.02.11-22.27.34:345][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.27.34:391][794]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.27.35:906][863]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.11-22.27.36:601][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.27.37:042][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.27.37:207][926]LogSlate: Window 'SonicColorsRunBlendspace' being destroyed
+[2020.02.11-22.31.38:910][331]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.31.38:916][331]LogBlueprint: Warning: [Compiler BP_SonicFBX] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.02.11-22.31.39:197][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.02.11-22.31.39:212][331]LogBlueprint: Warning: [Compiler BP_SonicFBX] [4880.11] Compile of BP_SonicFBX successful, but with 1 Warning(s) [in 301 ms] (/Game/Character/BP_SonicFBX.BP_SonicFBX)
+[2020.02.11-22.32.18:350][603]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.32.18:554][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.11-22.32.19:273][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.02.11-22.32.19:350][639]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX2F59358A47AEEA72073693BF4D537A89.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.02.11-22.33.22:026][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.02.11-22.33.23:339][347]LogSlate: Window 'Save Content' being destroyed
+[2020.02.11-22.33.23:421][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.11-22.33.23:771][347]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom379184D0415C51AAA3A9FCB36F3AA6A8.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap'
+[2020.02.11-22.33.23:812][347]LogFileHelpers: Saving map 'MechanicRoom' took 0.429
+[2020.02.11-22.33.30:404][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.33.30:487][714]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.33.30:511][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.33.30:511][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.33.30:511][714]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:33:30 AM)
+[2020.02.11-22.33.30:511][714]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.33.30:535][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023768s)
+[2020.02.11-22.33.30:535][714]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.33.30:536][714]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.02.11-22.33.30:536][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.024514s)
+[2020.02.11-22.33.30:567][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.02.11-22.33.30:576][714]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.33.30:590][714]LogInit: FAudioDevice initialized.
+[2020.02.11-22.33.30:617][714]LogLoad: Game class is 'GameModeBase'
+[2020.02.11-22.33.30:620][714]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.33.30
+[2020.02.11-22.33.30:621][714]LogWorld: Bringing up level for play took: 0.002921
+[2020.02.11-22.33.30:634][714]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.406
+[2020.02.11-22.33.30:634][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.33.32:568][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.33.32:568][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.33.32:607][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.33.32:607][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.33.32:660][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.33.32:666][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.11-22.33.32:687][827]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.02.11-22.33.33:742][890]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.02.11-22.33.33:819][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.11-22.33.34:205][912]Cmd: TRANSACTION UNDO
+[2020.02.11-22.33.34:205][912]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.02.11-22.33.35:883][ 11]Cmd: TRANSACTION UNDO
+[2020.02.11-22.33.35:883][ 11]LogEditorTransaction: Undo Create Actors
+[2020.02.11-22.33.40:725][294]Cmd: TRANSACTION UNDO
+[2020.02.11-22.33.40:725][294]LogEditorTransaction: Undo Move Actors
+[2020.02.11-22.33.41:546][342]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.11-22.33.42:046][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.11-22.33.42:479][396]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.11-22.33.47:597][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.33.51:773][872]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.11-22.33.54:988][ 53]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-22.33.59:054][280]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-22.34.01:949][436]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.34.01:970][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.34.01:971][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.34.01:971][436]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:34:01 AM)
+[2020.02.11-22.34.01:971][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.34.01:993][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022661s)
+[2020.02.11-22.34.01:994][436]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.34.01:994][436]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2020.02.11-22.34.01:994][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023356s)
+[2020.02.11-22.34.02:032][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.02.11-22.34.02:039][436]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.34.02:050][436]LogInit: FAudioDevice initialized.
+[2020.02.11-22.34.02:085][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.34.02:088][436]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.34.02
+[2020.02.11-22.34.02:088][436]LogWorld: Bringing up level for play took: 0.002013
+[2020.02.11-22.34.02:102][436]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.126
+[2020.02.11-22.34.02:102][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.34.05:189][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.34.05:189][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.34.05:222][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.34.05:223][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.34.05:276][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.34.05:280][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.02.11-22.34.05:299][620]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.02.11-22.34.11:173][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.34.49:940][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.34.51:379][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-22.34.57:898][615]LogSlate: Window 'Create New GameMode' being destroyed
+[2020.02.11-22.35.01:698][819]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.35.01:723][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.35.01:723][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.35.01:723][819]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:35:01 AM)
+[2020.02.11-22.35.01:723][819]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.35.01:748][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024863s)
+[2020.02.11-22.35.01:749][819]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.35.01:749][819]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2020.02.11-22.35.01:749][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025664s)
+[2020.02.11-22.35.01:788][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.11-22.35.01:797][819]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.35.01:810][819]LogInit: FAudioDevice initialized.
+[2020.02.11-22.35.01:840][819]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.35.01:841][819]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.35.01
+[2020.02.11-22.35.01:841][819]LogWorld: Bringing up level for play took: 0.001956
+[2020.02.11-22.35.01:855][819]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.372
+[2020.02.11-22.35.01:855][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.35.04:309][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.35.04:309][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.35.04:343][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.35.04:343][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.35.04:383][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.35.04:387][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.11-22.35.04:425][966]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.11-22.36.05:855][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.11-22.36.13:565][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.36.16:633][768]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.11-22.36.17:216][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.11-22.36.17:800][836]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.11-22.36.18:914][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.36.18:980][903]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.36.19:003][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.19:003][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.36.19:003][903]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:36:19 AM)
+[2020.02.11-22.36.19:003][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.36.19:026][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022814s)
+[2020.02.11-22.36.19:027][903]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.36.19:027][903]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2020.02.11-22.36.19:027][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023487s)
+[2020.02.11-22.36.19:084][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.11-22.36.19:091][903]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.36.19:103][903]LogInit: FAudioDevice initialized.
+[2020.02.11-22.36.19:129][903]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.36.19:131][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.36.19
+[2020.02.11-22.36.19:132][903]LogWorld: Bringing up level for play took: 0.001811
+[2020.02.11-22.36.19:149][903]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.92
+[2020.02.11-22.36.19:149][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.22:346][ 85]Set new viewmode: Wireframe
+[2020.02.11-22.36.22:502][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.22:502][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.22:533][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.36.22:533][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.22:603][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.22:620][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.11-22.36.22:637][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.11-22.36.24:135][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.36.24:218][189]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.36.24:238][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.24:238][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.36.24:238][189]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:36:24 AM)
+[2020.02.11-22.36.24:238][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.36.24:261][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022819s)
+[2020.02.11-22.36.24:261][189]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.36.24:261][189]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2020.02.11-22.36.24:261][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023420s)
+[2020.02.11-22.36.24:290][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.11-22.36.24:297][189]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.36.24:308][189]LogInit: FAudioDevice initialized.
+[2020.02.11-22.36.24:334][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.36.24:337][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.36.24
+[2020.02.11-22.36.24:337][189]LogWorld: Bringing up level for play took: 0.001978
+[2020.02.11-22.36.24:351][189]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.122
+[2020.02.11-22.36.24:351][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.24:934][222]Set new viewmode: Wireframe
+[2020.02.11-22.36.27:753][391]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.27:753][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.27:783][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.36.27:783][391]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.27:840][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.27:845][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.11-22.36.27:862][392]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.11-22.36.28:815][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.36.28:915][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.36.28:933][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.28:933][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-22.36.28:933][455]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:36:28 AM)
+[2020.02.11-22.36.28:933][455]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.36.28:956][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022970s)
+[2020.02.11-22.36.28:956][455]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.36.28:957][455]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2020.02.11-22.36.28:957][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.023712s)
+[2020.02.11-22.36.28:986][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.11-22.36.28:994][455]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.36.29:005][455]LogInit: FAudioDevice initialized.
+[2020.02.11-22.36.29:032][455]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.36.29:035][455]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.36.29
+[2020.02.11-22.36.29:035][455]LogWorld: Bringing up level for play took: 0.001747
+[2020.02.11-22.36.29:051][455]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.822
+[2020.02.11-22.36.29:051][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.29:910][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.29:910][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.29:942][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.36.29:942][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.36.29:975][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.36.29:979][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.11-22.36.30:013][505]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.02.11-22.36.34:015][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.37.44:348][302]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Animations/BP_SonicAnimation.BP_SonicAnimation
+[2020.02.11-22.37.44:373][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.37.44:709][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.37.59:470][127]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_SonicFBX.BP_SonicFBX
+[2020.02.11-22.38.41:951][712]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.38.42:126][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.11-22.38.45:754][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.11-22.38.46:090][844]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoomFAB585054DCEFD083F0CFE8BF0C75940.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap'
+[2020.02.11-22.38.46:129][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MechanicRoom_BuiltData" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset" SILENT=true
+[2020.02.11-22.38.46:256][844]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom_BuiltData4182D742457B72B0617AEE9C35DDEAD0.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset'
+[2020.02.11-22.38.46:689][867]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.38.46:709][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.38.46:709][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-22.38.46:710][867]LogPlayLevel: [PlayLevel] Compiling BP_SonicFBX before play...
+[2020.02.11-22.38.46:902][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.11-22.38.46:902][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2020.02.11-22.38.46:902][867]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:38:46 AM)
+[2020.02.11-22.38.46:902][867]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.38.46:926][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023996s)
+[2020.02.11-22.38.46:927][867]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.38.46:927][867]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2020.02.11-22.38.46:927][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.024775s)
+[2020.02.11-22.38.46:955][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.11-22.38.46:963][867]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.38.46:975][867]LogInit: FAudioDevice initialized.
+[2020.02.11-22.38.47:008][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.38.47:011][867]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.38.47
+[2020.02.11-22.38.47:012][867]LogWorld: Bringing up level for play took: 0.002662
+[2020.02.11-22.38.47:029][867]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.801
+[2020.02.11-22.38.47:029][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.38.47:892][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.38.47:892][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.38.47:926][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.38.47:926][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.38.47:961][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.38.47:965][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.11-22.38.48:002][918]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.02.11-22.38.51:218][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.38.52:004][144]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Animations/BP_SonicAnimation.BP_SonicAnimation
+[2020.02.11-22.38.52:027][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.38.52:285][144]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.39.03:563][798]LogDialogs: Warning: Suppressed: Variable ChangeAnim is in use! Do you really want to delete it?
+[2020.02.11-22.39.10:529][119]BlueprintLog: New page: Compile BP_SonicAnimation
+[2020.02.11-22.39.10:735][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.02.11-22.40.03:058][ 81]BlueprintLog: New page: Compile BP_SonicAnimation
+[2020.02.11-22.40.03:061][ 81]LogBlueprint: Warning: [Compiler BP_SonicAnimation] Idle to Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.02.11-22.40.03:061][ 81]LogBlueprint: Warning: [Compiler BP_SonicAnimation] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.02.11-22.40.03:229][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.11-22.40.03:232][ 81]LogBlueprint: Warning: [Compiler BP_SonicAnimation] [5384.13] Compile of BP_SonicAnimation successful, but with 2 Warning(s) [in 174 ms] (/Game/BP_Animations/BP_SonicAnimation.BP_SonicAnimation)
+[2020.02.11-22.41.59:933][723]BlueprintLog: New page: Compile BP_SonicAnimation
+[2020.02.11-22.41.59:936][723]LogBlueprint: Warning: [Compiler BP_SonicAnimation] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.02.11-22.41.59:938][723]LogBlueprint: Warning: [Compiler BP_SonicAnimation] Set Running  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.02.11-22.42.00:111][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.11-22.42.00:114][723]LogBlueprint: Warning: [Compiler BP_SonicAnimation] [5501.01] Compile of BP_SonicAnimation successful, but with 2 Warning(s) [in 180 ms] (/Game/BP_Animations/BP_SonicAnimation.BP_SonicAnimation)
+[2020.02.11-22.42.17:543][681]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.17:546][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.18:133][710]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.18:136][710]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.18:710][739]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-22.42.18:713][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.18:913][745]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.18:916][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.19:125][752]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.19:128][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.19:319][758]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-22.42.19:321][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.19:514][764]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-22.42.19:516][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.19:690][769]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.19:692][769]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.19:885][775]LogEditorTransaction: Undo Change Bool Pin Value
+[2020.02.11-22.42.19:887][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.20:064][780]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.20:066][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.20:314][789]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.20:316][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.20:523][796]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.20:526][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.20:749][804]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.20:751][804]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.21:162][823]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.21:164][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.21:706][850]LogEditorTransaction: Undo Move Nodes
+[2020.02.11-22.42.21:709][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.21:902][856]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-22.42.21:905][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.22:296][874]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.22:299][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.22:491][880]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-22.42.22:493][880]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.22:703][887]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.22:706][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.22:918][894]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.22:920][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.23:143][902]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.23:146][902]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.23:337][908]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.23:339][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.23:600][918]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.23:602][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.23:815][925]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.23:817][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.24:077][935]LogEditorTransaction: Undo Move Nodes
+[2020.02.11-22.42.24:079][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.24:289][942]LogEditorTransaction: Undo Create Pin Link
+[2020.02.11-22.42.24:291][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.24:520][950]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.24:522][950]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.24:749][958]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.24:752][958]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.24:999][967]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.25:002][967]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.25:213][974]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.25:215][974]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.25:459][983]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.25:462][983]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.25:686][991]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.25:688][991]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.25:933][  0]LogEditorTransaction: Undo Move Node
+[2020.02.11-22.42.25:936][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.26:147][  7]LogEditorTransaction: Undo Add Node
+[2020.02.11-22.42.26:149][  7]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.26:379][ 15]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-22.42.26:382][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.26:593][ 22]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-22.42.26:595][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.26:887][ 34]LogEditorTransaction: Undo Delete current selection
+[2020.02.11-22.42.26:890][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.27:111][ 41]LogEditorTransaction: Undo Remove Variable
+[2020.02.11-22.42.27:119][ 41]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.42.28:746][132]LogEditorTransaction: Redo Remove Variable
+[2020.02.11-22.42.28:751][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.45.23:245][944]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-22.45.25:565][ 76]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.45.25:783][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.11-22.45.26:688][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.02.11-22.45.26:759][126]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBXA029112440C0096AD1844E82682DD219.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.02.11-22.45.33:656][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.11-22.45.37:771][491]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.11-22.45.37:860][491]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BP_Animations/BP_SonicAnimation.BP_SonicAnimation
+[2020.02.11-22.45.39:075][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.02.11-22.45.39:104][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.11-22.45.39:134][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.11-22.45.40:225][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.11-22.45.40:563][550]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoomAC4C75B24AA335EB1D8384A5FAAFAF56.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap'
+[2020.02.11-22.45.40:604][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MechanicRoom_BuiltData" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset" SILENT=true
+[2020.02.11-22.45.40:710][550]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom_BuiltData9F832D9740C0CBB0C81A4CB8712F4051.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset'
+[2020.02.11-22.45.46:370][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.02.11-22.45.47:258][856]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.11-22.45.47:386][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.11-22.46.16:037][124]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.02.11-22.46.23:023][539]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/BP_Animations/BP_SonicAnim.BP_SonicAnim
+[2020.02.11-22.46.23:040][539]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.46.23:055][539]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.46.23:374][539]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.46.49:880][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicIdleWalk" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset" SILENT=true
+[2020.02.11-22.46.49:897][612]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleWalk51172D594284C542F450719EAA8E8493.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset'
+[2020.02.11-22.46.50:083][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.11-22.46.50:123][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.11-22.46.50:152][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.11-22.46.51:221][674]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/BP_Animations/SonicIdleWalk.SonicIdleWalk
+[2020.02.11-22.46.51:242][674]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.46.51:294][674]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.46.53:653][790]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.46.53:728][795]LogSlate: Window 'SonicIdleWalk' being destroyed
+[2020.02.11-22.47.40:822][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicIdleWalk" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset" SILENT=true
+[2020.02.11-22.47.40:872][180]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleWalk0F898EC14C186BD9EDD3478D582DB87F.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset'
+[2020.02.11-22.49.21:405][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicIdleWalk" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset" SILENT=true
+[2020.02.11-22.49.21:448][794]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleWalk63FAD51943AEC7038E25BFBDD68B90CD.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset'
+[2020.02.11-22.49.21:838][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicIdleWalk" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset" SILENT=true
+[2020.02.11-22.49.21:870][815]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleWalk5FF86AEA450C601AB5419E82A8F7677C.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleWalk.uasset'
+[2020.02.11-22.49.39:492][236]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.11-22.50.14:326][236]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.02.11-22.50.19:813][554]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Animations/BP_SonicAnim.BP_SonicAnim
+[2020.02.11-22.50.19:839][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-22.50.20:108][554]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-22.52.09:810][538]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-22.53.01:235][850]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-22.53.01:409][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.11-22.53.03:750][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-22.53.03:780][983]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim513BD8A04DC914160F14C9B11C0A98F2.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-22.55.32:727][588]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-22.55.32:895][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.11-22.55.33:638][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-22.55.33:698][628]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim2C9929D9427B578C96B72F83C686FD6A.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-22.55.41:029][ 59]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-22.55.41:211][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.11-22.55.41:387][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-22.55.41:442][ 65]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim412723224C4E07FB6B06BBAFAD128E14.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-22.56.06:061][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.11-22.56.06:061][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.038
+[2020.02.11-22.56.06:063][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/SonicPawn] ([1] browsable assets)...
+[2020.02.11-22.56.06:119][154]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/SonicPawn.SonicPawn]
+[2020.02.11-22.56.06:119][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/SonicPawn]
+[2020.02.11-22.56.06:278][154]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicPawn_Auto36A8EC11C40F1722D47ABE5BCA8919D77.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/Character/SonicPawn_Auto3.uasset'
+[2020.02.11-22.56.06:280][154]LogFileHelpers: Auto-saving content packages took 0.218
+[2020.02.11-22.56.15:723][355]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_SonicFBX.BP_SonicFBX
+[2020.02.11-22.56.24:961][848]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.11-22.56.29:214][ 98]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-22.56.29:417][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.11-22.57.03:943][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.02.11-22.57.04:017][484]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX9DC4A09442BCA5D495895986F2EF0BEB.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.02.11-22.57.05:115][541]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-22.57.05:135][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.57.05:135][541]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.11-22.57.05:137][541]LogPlayLevel: [PlayLevel] Compiling SonicPawn before play...
+[2020.02.11-22.57.05:145][541]LogBlueprint: Warning: [Compiler SonicPawn] InputAction Event references unknown Action 'AButton' for  InputAction AButton
+[2020.02.11-22.57.05:146][541]LogBlueprint: Warning: [Compiler SonicPawn] Input Axis Event references unknown Axis 'LeftStickY' for  InputAxis LeftStickY
+[2020.02.11-22.57.05:146][541]LogBlueprint: Warning: [Compiler SonicPawn] Input Axis Event references unknown Axis 'LeftStickX' for  InputAxis LeftStickX
+[2020.02.11-22.57.05:146][541]LogBlueprint: Warning: [Compiler SonicPawn] InputAction Event references unknown Action 'BButton' for  InputAction BButton
+[2020.02.11-22.57.05:146][541]LogBlueprint: Warning: [Compiler SonicPawn] Input Axis Event references unknown Axis 'RightStickY' for  InputAxis RightStickY
+[2020.02.11-22.57.05:146][541]LogBlueprint: Warning: [Compiler SonicPawn] Input Axis Event references unknown Axis 'RightStickX' for  InputAxis RightStickX
+[2020.02.11-22.57.05:147][541]LogBlueprint: Warning: [Compiler SonicPawn] InputAction Event references unknown Action 'LeftStickUpPressed' for  InputAction LeftStickUpPressed
+[2020.02.11-22.57.05:147][541]LogBlueprint: Warning: [Compiler SonicPawn] InputAction Event references unknown Action 'LeftStickDownPressed' for  InputAction LeftStickDownPressed
+[2020.02.11-22.57.05:157][541]LogBlueprint: Warning: [Compiler SonicPawn] [6406.05] Compile of SonicPawn successful, but with 8 Warning(s) [in 21 ms] (/Game/Character/SonicPawn.SonicPawn)
+[2020.02.11-22.57.05:334][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.02.11-22.57.05:335][541]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2020.02.11-22.57.05:335][541]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 10:57:05 AM)
+[2020.02.11-22.57.05:335][541]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-22.57.05:360][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024635s)
+[2020.02.11-22.57.05:360][541]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-22.57.05:360][541]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2020.02.11-22.57.05:360][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025298s)
+[2020.02.11-22.57.05:395][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.11-22.57.05:404][541]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-22.57.05:415][541]LogInit: FAudioDevice initialized.
+[2020.02.11-22.57.05:446][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-22.57.05:449][541]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-16.57.05
+[2020.02.11-22.57.05:450][541]LogWorld: Bringing up level for play took: 0.001893
+[2020.02.11-22.57.05:467][541]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 1.239
+[2020.02.11-22.57.05:467][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.57.14:278][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.57.14:278][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.57.14:311][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-22.57.14:311][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-22.57.14:383][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-22.57.14:388][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.11-22.57.14:407][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.02.11-22.57.18:617][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-22.58.02:813][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.11-22.58.04:208][243]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom7AD099FF4C0C6227726F83A5AC3BF507.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap'
+[2020.02.11-22.58.04:259][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MechanicRoom_BuiltData" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset" SILENT=true
+[2020.02.11-22.58.04:385][243]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/MechanicRoom_BuiltData94CB397B4DAEC4D01CF7029D75A2AD41.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom_BuiltData.uasset'
+[2020.02.11-23.02.26:328][ 45]LogHttp: Warning: 000001B49D4BBD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.11-23.02.26:328][ 45]LogHttp: Warning: 000001B49D4BBD80: libcurl info message cache 0 (Connection 47 seems to be dead!)
+[2020.02.11-23.02.26:328][ 45]LogHttp: Warning: 000001B49D4BBD80: libcurl info message cache 1 (Closing connection 47)
+[2020.02.11-23.02.26:328][ 45]LogHttp: Warning: 000001B49D4BBD80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.11-23.02.26:329][ 45]LogHttp: Warning: 000001B49D4BBD80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.11-23.02.26:329][ 45]LogHttp: Warning: 000001B49D4BBD80: libcurl info message cache 4 (Closing connection 48)
+[2020.02.11-23.02.26:664][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34C5C2C4-4282-12F8-F4B8-F1A46E1A5B3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=07bef3d549fec398f795d59f50abe4e4%7C3fbc73e828984fb794bc41b5f2ed0ba7%7Cdf423277-66d3-438f-aaf4-10ebb7af35f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-23.05.41:225][266]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.02.11-23.05.58:642][304]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/BP_Animations/SonicIdleJump.SonicIdleJump
+[2020.02.11-23.05.58:656][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.05.58:704][304]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-23.06.02:739][512]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-23.06.03:238][542]LogSlate: Window 'SonicIdleJump' being destroyed
+[2020.02.11-23.08.02:689][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.11-23.08.02:689][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.035
+[2020.02.11-23.08.02:690][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Animations/SonicIdleJump] ([1] browsable assets)...
+[2020.02.11-23.08.02:708][693]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BP_Animations/SonicIdleJump.SonicIdleJump]
+[2020.02.11-23.08.02:708][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Animations/SonicIdleJump]
+[2020.02.11-23.08.02:726][693]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleJump_Auto4158249444B443FBBF88E5AB65606A558.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/BP_Animations/SonicIdleJump_Auto4.uasset'
+[2020.02.11-23.08.02:727][693]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.02.11-23.17.18:733][  2]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-23.17.18:757][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.17.18:757][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-23.17.18:757][  2]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 11:17:18 AM)
+[2020.02.11-23.17.18:758][  2]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-23.17.18:782][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024336s)
+[2020.02.11-23.17.18:783][  2]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-23.17.18:783][  2]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2020.02.11-23.17.18:783][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025220s)
+[2020.02.11-23.17.18:816][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.11-23.17.18:825][  2]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-23.17.18:838][  2]LogInit: FAudioDevice initialized.
+[2020.02.11-23.17.18:865][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-23.17.18:868][  2]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-17.17.18
+[2020.02.11-23.17.18:869][  2]LogWorld: Bringing up level for play took: 0.002512
+[2020.02.11-23.17.18:884][  2]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.656
+[2020.02.11-23.17.18:884][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.17.24:081][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.17.24:081][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.17.24:112][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-23.17.24:112][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.17.24:150][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.17.24:154][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.11-23.17.24:193][313]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.02.11-23.17.25:550][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-23.18.16:642][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicIdleJump" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleJump.uasset" SILENT=true
+[2020.02.11-23.18.16:664][264]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicIdleJumpDD9871B046B9DBB7A2FD64865147FF7D.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicIdleJump.uasset'
+[2020.02.11-23.18.30:752][ 65]LogHttp: Warning: 000001B50A202480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.11-23.18.30:752][ 65]LogHttp: Warning: 000001B50A202480: libcurl info message cache 0 (Connection 53 seems to be dead!)
+[2020.02.11-23.18.30:753][ 65]LogHttp: Warning: 000001B50A202480: libcurl info message cache 1 (Closing connection 53)
+[2020.02.11-23.18.30:753][ 65]LogHttp: Warning: 000001B50A202480: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.11-23.18.30:753][ 65]LogHttp: Warning: 000001B50A202480: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.11-23.18.30:753][ 65]LogHttp: Warning: 000001B50A202480: libcurl info message cache 4 (Closing connection 54)
+[2020.02.11-23.18.30:769][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34C5C2C4-4282-12F8-F4B8-F1A46E1A5B3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=07bef3d549fec398f795d59f50abe4e4%7C3fbc73e828984fb794bc41b5f2ed0ba7%7Cdf423277-66d3-438f-aaf4-10ebb7af35f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-23.19.24:533][185]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.19.24:537][185]LogBlueprint: Warning: [Compiler BP_SonicAnim] Idle/Walk to Idle/Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.02.11-23.19.24:718][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.11-23.19.24:722][185]LogBlueprint: Warning: [Compiler BP_SonicAnim] [7745.62] Compile of BP_SonicAnim successful, but with 1 Warning(s) [in 188 ms] (/Game/BP_Animations/BP_SonicAnim.BP_SonicAnim)
+[2020.02.11-23.19.35:171][792]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.19.35:175][792]LogBlueprint: Warning: [Compiler BP_SonicAnim] Idle/Walk to Idle/Jump  will never be taken, please connect something to  Can Enter Transition
+[2020.02.11-23.19.35:347][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.11-23.19.35:352][792]LogBlueprint: Warning: [Compiler BP_SonicAnim] [7756.25] Compile of BP_SonicAnim successful, but with 1 Warning(s) [in 180 ms] (/Game/BP_Animations/BP_SonicAnim.BP_SonicAnim)
+[2020.02.11-23.19.36:537][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-23.19.36:605][858]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim9E3822B84D3ADE3A3C6C2AA49F18E4E2.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-23.20.06:125][577]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.20.06:300][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.11-23.20.30:839][989]LogHttp: Warning: 000001B49D4B96C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.11-23.20.30:839][989]LogHttp: Warning: 000001B49D4B96C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.11-23.20.30:839][989]LogHttp: Warning: 000001B49D4B96C0: libcurl info message cache 1 (Closing connection 55)
+[2020.02.11-23.20.30:859][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34C5C2C4-4282-12F8-F4B8-F1A46E1A5B3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=07bef3d549fec398f795d59f50abe4e4%7C3fbc73e828984fb794bc41b5f2ed0ba7%7Cdf423277-66d3-438f-aaf4-10ebb7af35f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-23.20.48:514][983]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.20.48:687][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.11-23.20.49:465][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-23.20.49:527][ 25]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim153DA95D40E4DA58FAD12D96C8B1DFCF.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-23.21.10:850][224]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.21.11:026][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.11-23.21.11:972][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-23.21.12:035][276]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim3DBFFC004D0D1C07E5720790139A65C7.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-23.21.13:387][345]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-23.21.13:407][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.21.13:407][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-23.21.13:408][345]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 11:21:13 AM)
+[2020.02.11-23.21.13:408][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-23.21.13:431][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023325s)
+[2020.02.11-23.21.13:432][345]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-23.21.13:432][345]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2020.02.11-23.21.13:432][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.024071s)
+[2020.02.11-23.21.13:469][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.11-23.21.13:477][345]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-23.21.13:490][345]LogInit: FAudioDevice initialized.
+[2020.02.11-23.21.13:522][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-23.21.13:525][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-17.21.13
+[2020.02.11-23.21.13:525][345]LogWorld: Bringing up level for play took: 0.002085
+[2020.02.11-23.21.13:539][345]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.689
+[2020.02.11-23.21.13:540][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.21.16:653][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.21.16:653][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.21.16:687][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-23.21.16:688][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.21.16:725][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.21.16:730][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.11-23.21.16:753][530]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.02.11-23.21.17:459][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-23.21.42:240][ 33]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-23.21.42:453][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.11-23.24.07:243][753]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.02.11-23.24.07:437][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.11-23.27.00:410][447]LogHttp: Warning: 000001B5791642C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.11-23.27.00:410][447]LogHttp: Warning: 000001B5791642C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.11-23.27.00:410][447]LogHttp: Warning: 000001B5791642C0: libcurl info message cache 1 (Closing connection 57)
+[2020.02.11-23.27.00:427][448]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B34C5C2C4-4282-12F8-F4B8-F1A46E1A5B3A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=07bef3d549fec398f795d59f50abe4e4%7C3fbc73e828984fb794bc41b5f2ed0ba7%7Cdf423277-66d3-438f-aaf4-10ebb7af35f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.11-23.27.12:404][121]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Sonic/Animations/SonicColorsRunBlendspace.SonicColorsRunBlendspace
+[2020.02.11-23.27.12:422][121]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.27.12:452][121]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-23.27.12:799][121]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-23.27.27:897][889]LogAssetEditorManager: Opening Asset editor for AnimComposite /Game/Sonic/Animations/SonicColorsIdleComposite.SonicColorsIdleComposite
+[2020.02.11-23.27.27:914][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.27.27:962][889]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.11-23.27.29:929][960]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.11-23.27.30:138][973]LogSlate: Window 'SonicColorsIdleComposite' being destroyed
+[2020.02.11-23.28.19:533][822]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.28.19:729][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.11-23.28.31:409][500]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-23.28.31:431][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.28.31:431][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-23.28.31:431][500]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 11:28:31 AM)
+[2020.02.11-23.28.31:431][500]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-23.28.31:456][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024613s)
+[2020.02.11-23.28.31:457][500]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-23.28.31:457][500]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2020.02.11-23.28.31:457][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025327s)
+[2020.02.11-23.28.31:495][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.11-23.28.31:504][500]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-23.28.31:517][500]LogInit: FAudioDevice initialized.
+[2020.02.11-23.28.31:548][500]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-23.28.31:550][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-17.28.31
+[2020.02.11-23.28.31:550][500]LogWorld: Bringing up level for play took: 0.001926
+[2020.02.11-23.28.31:564][500]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom -0.664
+[2020.02.11-23.28.31:564][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.28.43:033][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.28.43:033][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.28.43:068][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-23.28.43:068][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.28.43:108][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.28.43:112][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.02.11-23.28.43:139][185]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.02.11-23.28.44:266][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-23.28.46:756][380]LogEditorTransaction: Undo Move Node
+[2020.02.11-23.28.46:840][380]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.47:181][399]LogEditorTransaction: Undo Add Node
+[2020.02.11-23.28.47:276][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.47:609][418]LogEditorTransaction: Undo Rename Node
+[2020.02.11-23.28.47:717][418]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.48:281][451]LogEditorTransaction: Undo Move Node
+[2020.02.11-23.28.48:385][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.48:829][477]LogEditorTransaction: Undo Move Node
+[2020.02.11-23.28.48:949][477]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.49:423][505]LogEditorTransaction: Undo Rename Node
+[2020.02.11-23.28.49:524][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.52:050][654]LogEditorTransaction: Undo Add Node
+[2020.02.11-23.28.52:179][654]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.11-23.28.54:240][775]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.28.54:433][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.11-23.28.56:311][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/BP_SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset" SILENT=true
+[2020.02.11-23.28.56:394][876]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicAnim92590C3C44FED2FBCC5155BA0DF18A3D.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/BP_SonicAnim.uasset'
+[2020.02.11-23.28.58:981][964]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.11-23.28.59:001][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.28.59:001][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.11-23.28.59:001][964]PIE: New page: PIE session: MechanicRoom (Feb 11, 2020, 11:28:59 AM)
+[2020.02.11-23.28.59:001][964]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.02.11-23.28.59:026][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024479s)
+[2020.02.11-23.28.59:027][964]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.02.11-23.28.59:027][964]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2020.02.11-23.28.59:027][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.025112s)
+[2020.02.11-23.28.59:064][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.11-23.28.59:072][964]LogInit: XAudio2 using 'Altavoces (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.11-23.28.59:084][964]LogInit: FAudioDevice initialized.
+[2020.02.11-23.28.59:114][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.11-23.28.59:117][964]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.02.11-17.28.59
+[2020.02.11-23.28.59:117][964]LogWorld: Bringing up level for play took: 0.001976
+[2020.02.11-23.28.59:132][964]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.904
+[2020.02.11-23.28.59:132][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.29.00:391][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.29.00:391][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.29.00:424][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.11-23.29.00:424][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.02.11-23.29.00:461][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.11-23.29.00:465][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.11-23.29.00:505][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.02.11-23.29.01:312][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.11-23.29.25:749][330]BlueprintLog: New page: Compile BP_SonicAnim
+[2020.02.11-23.29.25:988][330]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.11-23.29.28:413][330]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.425 s
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: 
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'Entry' on node 'SonicStateMachine' not reciprocally linked with pin 'In' on node '(null)'
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: Stack: 
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe66d9ff85 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe65d3eefb UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe65d3edb0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe65d44b8b UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe65d3e191 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe696e0dcb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe696be3ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe6966cded UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe6966c3ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe59a42265 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe63c85374 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe59b2dae6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe3c4b3237 UE4Editor-AnimationBlueprintEditor.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe59b48e88 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe6861180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe686e9122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe686caa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe68782a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe685d4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe68650301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe6863aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe68630414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe843cb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe843bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe843cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe843bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffec3805b6d USER32.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffec3805562 USER32.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffe843ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ff6853d5d3e UE4Editor.exe!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ff6853e554c UE4Editor.exe!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ff6853e55ca UE4Editor.exe!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ff6853f316c UE4Editor.exe!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ff6853f5b8e UE4Editor.exe!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffec33c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: [Callstack] 0x00007ffec3c0ced1 ntdll.dll!UnknownFunction []
+[2020.02.11-23.29.28:414][330]LogOutputDevice: Error: 
+[2020.02.11-23.29.28:415][330]LogStats:                SubmitErrorReport -  0.000 s

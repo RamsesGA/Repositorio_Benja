@@ -1,0 +1,894 @@
+﻿Log file open, 03/15/20 15:32:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SonicGenerations
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 11.459733
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.15-21.32.57:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:339][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:425][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:425][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-21.32.57:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-21.32.57:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-21.32.57:428][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-21.32.57:438][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-21.32.57:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.15-21.32.57:556][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.15-21.32.57:567][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.15-21.32.57:567][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.15-21.32.57:568][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:568][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.15-21.32.57:568][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.15-21.32.57:568][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:568][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.15-21.32.57:568][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:568][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.15-21.32.57:569][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.15-21.32.57:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Scalability.ini]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.15-21.32.57:571][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.15-21.32.57:596][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.15-21.32.57:596][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.15-21.32.57:597][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Config/Windows/Engine.ini]
+[2020.03.15-21.32.57:609][  0]LogInit: Computer: LAPTOP-BGAV0320
+[2020.03.15-21.32.57:609][  0]LogInit: User: ramse
+[2020.03.15-21.32.57:609][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.15-21.32.57:609][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.15-21.32.57:610][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.15-21.32.57:610][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.15-21.32.57:610][  0]LogMemory: Process Physical Memory: 100.60 MB used, 100.61 MB peak
+[2020.03.15-21.32.57:610][  0]LogMemory: Process Virtual Memory: 96.02 MB used, 96.02 MB peak
+[2020.03.15-21.32.57:610][  0]LogMemory: Physical Memory: 5997.09 MB used,  10262.07 MB free, 16259.16 MB total
+[2020.03.15-21.32.57:610][  0]LogMemory: Virtual Memory: 4637.52 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.15-21.32.58:771][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.15-21.32.58:771][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.15-21.33.00:071][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.15-21.33.00:641][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.15-21.33.00:641][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.15-21.33.10:872][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.15-21.33.10:872][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.15-21.33.10:990][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.03.15-21.33.10:990][  0]LogD3D11RHI:       1979/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.15-21.33.11:026][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.15-21.33.11:026][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.15-21.33.11:028][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.15-21.33.11:028][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.15-21.33.11:028][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.15-21.33.11:096][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.15-21.33.11:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.03.15-21.33.11:097][  0]LogWindows: EnumDisplayDevices:
+[2020.03.15-21.33.11:097][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.15-21.33.11:097][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.03.15-21.33.11:098][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.15-21.33.11:098][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.15-21.33.11:098][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.03.15-21.33.11:098][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.15-21.33.11:098][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.15-21.33.11:098][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.03.15-21.33.11:151][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.15-21.33.11:407][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.33.11:423][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.33.11:423][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.15-21.33.11:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.15-21.33.12:649][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.15-21.33.12:678][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.15-21.33.12:852][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.15-21.33.12:950][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.15-21.33.13:136][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.15-21.33.13:195][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.15-21.33.13:311][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.15-21.33.13:399][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.15-21.33.13:428][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.15-21.33.13:616][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.15-21.33.13:677][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.15-21.33.13:915][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.15-21.33.13:915][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.15-21.33.13:954][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.15-21.33.13:955][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.15-21.33.13:977][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.15-21.33.14:010][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.15-21.33.14:155][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.15-21.33.14:203][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.15-21.33.14:271][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.15-21.33.14:271][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.15-21.33.14:272][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.15-21.33.14:453][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.15-21.33.15:139][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Intermediate/Shaders/WorkingDirectory/20032/).
+[2020.03.15-21.33.15:139][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramse/AppData/Local/Temp/UnrealShaderWorkingDir/3997898F4C985508C55E51B6DF9C0B50/'.
+[2020.03.15-21.33.15:184][  0]LogXGEController: Cleaning working directory: C:/Users/ramse/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.15-21.33.15:185][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.15-21.33.15:185][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.15-21.33.15:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.15-21.33.26:346][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: Loaded boot cache 1.07s 86MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-21.33.27:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.15-21.33.27:565][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.15-21.33.27:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.15-21.33.27:565][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.15-21.33.27:618][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.15-21.33.27:618][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.15-21.33.27:618][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.15-21.33.27:665][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.15-21.33.27:807][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.15-21.33.28:003][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.15-21.33.31:025][  0]LogAssetRegistry: FAssetRegistry took 0.0392 seconds to start up
+[2020.03.15-21.33.34:881][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.15-21.33.37:854][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.15-21.33.37:854][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.15-21.33.37:854][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.15-21.33.37:854][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.15-21.33.37:854][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.15-21.33.38:239][  0]LogNetVersion: SonicGenerations 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3921513358)
+[2020.03.15-21.33.46:160][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.125664 seconds
+[2020.03.15-21.33.46:171][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.15-21.33.46:171][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.15-21.33.46:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.15-21.34.29:627][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.15-21.34.29:698][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.15-21.34.31:703][  0]SourceControl: Source control is disabled
+[2020.03.15-21.34.31:716][  0]SourceControl: Source control is disabled
+[2020.03.15-21.34.31:964][  0]SourceControl: Source control is disabled
+[2020.03.15-21.34.31:999][  0]SourceControl: Source control is disabled
+[2020.03.15-21.34.34:034][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.15-21.34.34:699][  0]LogOcInput: OculusInput pre-init called
+[2020.03.15-21.34.39:200][  0]LogEngine: Initializing Engine...
+[2020.03.15-21.34.39:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.15-21.34.39:371][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.03.15-21.34.43:046][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.15-21.34.44:752][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.15-21.34.44:852][  0]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-21.34.44:881][  0]LogInit: FAudioDevice initialized.
+[2020.03.15-21.34.44:881][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.15-21.34.45:423][  0]LogDerivedDataCache: Saved boot cache 0.54s 71MB C:/Users/ramse/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.15-21.34.45:429][  0]LogInit: Texture streaming: Enabled
+[2020.03.15-21.34.45:970][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.15-21.34.45:971][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={19023179-4D11-CF2B-E2A3-459B72E67858}
+[2020.03.15-21.34.47:788][  0]LogInit: Transaction tracking system initialized
+[2020.03.15-21.34.49:186][  0]BlueprintLog: New page: Editor Load
+[2020.03.15-21.34.52:160][  0]LocalizationService: Localization service is disabled
+[2020.03.15-21.34.53:071][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.03.15-21.34.53:072][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2020.03.15-21.34.53:072][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2020.03.15-21.35.01:681][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/' took 0.03s
+[2020.03.15-21.35.01:681][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.15-21.35.01:681][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.15-21.35.08:818][  0]SourceControl: Source control is disabled
+[2020.03.15-21.35.08:861][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Levels/MechanicRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.15-21.35.08:904][  0]LightingResults: New page: Lighting Build
+[2020.03.15-21.35.09:217][  0]MapCheck: New page: Map Check
+[2020.03.15-21.35.09:217][  0]LightingResults: New page: Lighting Build
+[2020.03.15-21.35.09:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.03.15-21.35.21:920][  0]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-21.35.29:542][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.15-21.35.29:707][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.03.15-21.35.29:707][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.15-21.35.29:742][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.03.15-21.35.29:742][  0]LogFileHelpers: Loading map 'MechanicRoom' took 20.880
+[2020.03.15-21.35.39:664][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.15-21.35.40:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.35.40:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.35.40:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.35.40:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.35.40:828][  0]LogCollectionManager: Loaded 0 collections in 0.003069 seconds
+[2020.03.15-21.35.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Collections/' took 0.01s
+[2020.03.15-21.35.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Developers/ramse/Collections/' took 0.01s
+[2020.03.15-21.35.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Collections/' took 0.00s
+[2020.03.15-21.35.41:082][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.15-21.35.41:269][  0]LogContentBrowser: Native class hierarchy populated in 0.1863 seconds. Added 2733 classes and 661 folders.
+[2020.03.15-21.35.41:584][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.35.41:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.41:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.42:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.43:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.15-21.35.45:460][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.35.45:556][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.03.15-21.35.46:483][  0]LogSlate: Took 0.048834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.15-21.35.46:528][  0]LogSlate: Took 0.038465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.15-21.35.46:632][  0]LogSlate: Took 0.080679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.15-21.35.47:139][  0]LogRenderer: Reallocating scene render targets to support 1236x332 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-21.35.48:168][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2020.03.15-21.35.48:169][  0]LogLoad: (Engine Initialization) Total time: 200.96 seconds
+[2020.03.15-21.35.48:169][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.15-21.35.48:600][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.15-21.35.48:943][  0]LogSlate: Took 0.038759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-21.35.49:080][  1]LogLinker: Warning: Can't find file '/Game/DashEngine/Characters/Sonic/Meshes/Sonic'
+[2020.03.15-21.35.49:081][  1]LogLinker: Warning: Can't find file '/Game/DashEngine/Characters/Sonic/Meshes/Sonic'
+[2020.03.15-21.35.49:081][  1]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/DashEngine/Characters/Sonic/Meshes/Sonic.Sonic'
+[2020.03.15-21.35.49:241][  1]LogAssetRegistry: Asset discovery search completed in 138.2397 seconds
+[2020.03.15-21.35.49:245][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.15-21.35.49:245][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2020.03.15-21.35.49:889][  3]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.15-21.35.53:571][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.15-21.35.53:738][ 20]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Animations/SonicAnim.SonicAnim
+[2020.03.15-21.35.54:020][ 20]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.03.15-21.35.55:410][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.15-21.35.55:460][ 20]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2020.03.15-21.35.57:273][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 121 classes and 0 folders.
+[2020.03.15-21.35.58:865][ 20]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.15-21.35.59:840][ 20]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_SonicFBX.BP_SonicFBX
+[2020.03.15-21.36.00:981][ 20]LogSlate: Took 0.025365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.15-21.36.01:842][ 21]LogSlate: Took 0.022983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.15-21.42.18:231][354]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-21.42.18:767][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.03.15-21.42.19:457][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-21.42.20:171][377]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX3DB58A44496251B814D26DBC7B085595.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-21.42.20:619][402]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-21.42.20:840][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.03.15-21.42.21:193][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-21.42.21:374][414]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBXDDA322B447CFCEA398335BBE56022F7C.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-21.45.48:416][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.15-21.45.48:416][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.043
+[2020.03.15-21.45.48:418][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Animations/SonicAnim] ([1] browsable assets)...
+[2020.03.15-21.45.48:434][218]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Animations/SonicAnim.SonicAnim]
+[2020.03.15-21.45.48:434][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Animations/SonicAnim]
+[2020.03.15-21.45.48:754][218]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim_Auto11EE2DB1342710233510F5A8664D7C4E9.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/BP_Animations/SonicAnim_Auto1.uasset'
+[2020.03.15-21.45.48:767][218]LogFileHelpers: Auto-saving content packages took 0.350
+[2020.03.15-21.49.10:268][202]LogSlate: Took 0.019104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.15-21.52.05:882][907]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SonicPawn/Animations/sn_idle_quickstep_l_anm_hkx.sn_idle_quickstep_l_anm_hkx
+[2020.03.15-21.52.05:988][907]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.03.15-21.52.06:013][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.15-21.52.06:082][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.15-21.52.07:007][907]LogRenderer: Reallocating scene render targets to support 1236x388 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-21.52.07:007][907]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.15-21.54.01:867][653]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.15-21.54.01:967][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.15-21.54.06:575][917]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-21.54.06:861][917]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.03.15-21.54.07:261][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-21.54.07:472][937]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnimF1138A4C461148350ABB1C91460410F6.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-21.54.10:253][103]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-21.54.10:493][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.03.15-21.54.10:870][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-21.54.11:044][122]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnimAD9171514ABF5BD55F1703BB7BEED8F8.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-21.54.53:986][197]LogDialogs: Warning: Suppressed: Variable PressedE? is in use! Do you really want to delete it?
+[2020.03.15-21.55.11:808][537]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-21.55.11:819][537]LogBlueprint: Warning: [Compiler SonicAnim] Idle/Walk to QuickStepE  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-21.55.12:060][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.15-21.55.12:068][537]LogBlueprint: Warning: [Compiler SonicAnim] [1364.86] Compile of SonicAnim successful, but with 1 Warning(s) [in 260 ms] (/Game/BP_Animations/SonicAnim.SonicAnim)
+[2020.03.15-21.55.12:440][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-21.55.12:616][556]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim2A06FDC94CE76C4CA35C509AF56A648E.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-21.55.49:468][203]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.03.15-21.55.49:469][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.054
+[2020.03.15-21.55.49:470][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Animations/SonicAnim] ([1] browsable assets)...
+[2020.03.15-21.55.49:491][203]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Animations/SonicAnim.SonicAnim]
+[2020.03.15-21.55.49:491][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Animations/SonicAnim]
+[2020.03.15-21.55.49:673][203]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim_Auto2C691C49B49B7BCA8392300B70B3A617A.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/BP_Animations/SonicAnim_Auto2.uasset'
+[2020.03.15-21.55.49:681][203]LogFileHelpers: Auto-saving content packages took 0.210
+[2020.03.15-21.56.03:095][244]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-21.56.03:337][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.03.15-21.56.04:230][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-21.56.04:402][289]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim00E7AA1444564CF7A17D61A358D04C6E.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-21.56.06:586][419]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-21.56.06:825][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.03.15-21.56.07:232][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-21.56.07:407][440]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim29D726264737ECC7091FA5B35EFB9E47.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-21.56.09:989][594]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.15-21.56.25:603][508]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SonicPawn/Animations/sn_sliding_middle_loop_anm_hkx.sn_sliding_middle_loop_anm_hkx
+[2020.03.15-21.56.25:624][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.15-21.56.25:668][508]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.15-21.56.27:706][599]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.15-21.56.27:848][608]LogSlate: Window 'sn_sliding_middle_loop_anm_hkx' being destroyed
+[2020.03.15-21.56.27:862][609]LogRenderer: Reallocating scene render targets to support 1236x392 Format 10 NumSamples 1 (Frame:25702).
+[2020.03.15-21.56.30:224][741]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SonicPawn/Animations/sn_sliding_loop_anm_hkx.sn_sliding_loop_anm_hkx
+[2020.03.15-21.56.33:456][917]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SonicPawn/Animations/sn_sliding_l_loop_anm_hkx.sn_sliding_l_loop_anm_hkx
+[2020.03.15-21.56.36:256][ 70]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/SonicPawn/Animations/sn_sliding_e_anm_hkx.sn_sliding_e_anm_hkx
+[2020.03.15-21.57.41:024][116]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-21.57.41:191][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.57.41:191][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-21.57.41:269][116]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 9:57:41 AM)
+[2020.03.15-21.57.41:307][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-21.57.41:387][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078282s)
+[2020.03.15-21.57.41:387][116]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-21.57.41:387][116]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2020.03.15-21.57.41:387][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.079970s)
+[2020.03.15-21.57.41:464][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.15-21.57.41:500][116]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-21.57.41:509][116]LogInit: FAudioDevice initialized.
+[2020.03.15-21.57.41:520][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.57.41:616][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-21.57.41:644][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-15.57.41
+[2020.03.15-21.57.41:646][116]LogWorld: Bringing up level for play took: 0.015850
+[2020.03.15-21.57.41:809][116]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.03.15-21.57.41:854][116]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.03.15-21.57.41:856][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
+[2020.03.15-21.57.42:004][116]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.158
+[2020.03.15-21.57.42:006][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.57.42:425][118]LogRenderer: Reallocating scene render targets to support 1236x544 Format 10 NumSamples 1 (Frame:1).
+[2020.03.15-21.58.09:476][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.09:476][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.58.09:500][718]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-21.58.09:538][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-21.58.09:538][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.09:736][718]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.03.15-21.58.09:751][719]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.15-21.58.11:970][852]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-21.58.11:998][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.11:998][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-21.58.11:998][852]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 9:58:11 AM)
+[2020.03.15-21.58.11:999][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-21.58.12:047][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047916s)
+[2020.03.15-21.58.12:048][852]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-21.58.12:048][852]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2020.03.15-21.58.12:048][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.049145s)
+[2020.03.15-21.58.12:125][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.15-21.58.12:144][852]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-21.58.12:151][852]LogInit: FAudioDevice initialized.
+[2020.03.15-21.58.12:160][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.58.12:195][852]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-21.58.12:205][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-15.58.12
+[2020.03.15-21.58.12:206][852]LogWorld: Bringing up level for play took: 0.010765
+[2020.03.15-21.58.12:223][852]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.378
+[2020.03.15-21.58.12:225][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.38:173][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.38:174][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.58.38:197][406]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-21.58.38:234][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-21.58.38:235][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.58.38:288][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.03.15-21.58.38:298][407]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.15-21.59.10:553][337]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-21.59.10:805][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.03.15-21.59.11:404][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-21.59.11:584][364]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX758E62844D7B72D682E6F1B53CABCAA8.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-21.59.12:664][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-21.59.12:690][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.12:690][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-21.59.12:690][428]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 9:59:12 AM)
+[2020.03.15-21.59.12:690][428]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-21.59.12:739][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048915s)
+[2020.03.15-21.59.12:740][428]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-21.59.12:740][428]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2020.03.15-21.59.12:740][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.049703s)
+[2020.03.15-21.59.12:783][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.03.15-21.59.12:798][428]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-21.59.12:806][428]LogInit: FAudioDevice initialized.
+[2020.03.15-21.59.12:816][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.59.12:847][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-21.59.12:857][428]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-15.59.12
+[2020.03.15-21.59.12:859][428]LogWorld: Bringing up level for play took: 0.010935
+[2020.03.15-21.59.12:879][428]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 1.034
+[2020.03.15-21.59.12:879][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.20:996][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.20:996][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.59.21:019][911]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-21.59.21:057][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-21.59.21:057][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.21:107][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.15-21.59.21:119][912]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.15-21.59.22:036][967]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-21.59.22:063][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.22:063][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-21.59.22:063][967]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 9:59:22 AM)
+[2020.03.15-21.59.22:063][967]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-21.59.22:112][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048641s)
+[2020.03.15-21.59.22:112][967]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-21.59.22:113][967]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2020.03.15-21.59.22:113][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.049506s)
+[2020.03.15-21.59.22:152][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.03.15-21.59.22:168][967]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-21.59.22:175][967]LogInit: FAudioDevice initialized.
+[2020.03.15-21.59.22:187][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.59.22:221][967]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-21.59.22:233][967]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-15.59.22
+[2020.03.15-21.59.22:234][967]LogWorld: Bringing up level for play took: 0.011895
+[2020.03.15-21.59.22:252][967]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.407
+[2020.03.15-21.59.22:252][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.34:313][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.34:313][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-21.59.34:338][685]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-21.59.34:371][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-21.59.34:372][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-21.59.34:426][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.03.15-21.59.34:437][686]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.15-21.59.59:428][608]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-21.59.59:684][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.15-22.00.00:040][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-22.00.00:212][621]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBXB50016C7490A7D40B18B8B90ECF55CCD.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-22.00.20:097][813]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-22.00.20:125][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.00.20:125][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-22.00.20:125][813]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 10:00:20 AM)
+[2020.03.15-22.00.20:125][813]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-22.00.20:174][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048405s)
+[2020.03.15-22.00.20:174][813]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-22.00.20:174][813]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.03.15-22.00.20:175][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.049202s)
+[2020.03.15-22.00.20:219][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.03.15-22.00.20:235][813]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-22.00.20:242][813]LogInit: FAudioDevice initialized.
+[2020.03.15-22.00.20:252][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-22.00.20:285][813]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-22.00.20:296][813]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-16.00.20
+[2020.03.15-22.00.20:297][813]LogWorld: Bringing up level for play took: 0.010923
+[2020.03.15-22.00.20:316][813]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 0.47
+[2020.03.15-22.00.20:316][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.00.55:811][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.00.55:812][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-22.00.55:834][940]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-22.00.55:870][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-22.00.55:871][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.00.55:926][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.03.15-22.00.55:938][941]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.15-22.01.07:405][625]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-22.01.07:662][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.15-22.01.08:003][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-22.01.08:268][637]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBXA9F2AB9647A89272FC88B78DAA0DFC86.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-22.01.08:710][662]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.15-22.01.08:737][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.01.08:737][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.15-22.01.08:739][662]PIE: New page: PIE session: MechanicRoom (Mar 15, 2020, 10:01:08 AM)
+[2020.03.15-22.01.08:739][662]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicRoom
+[2020.03.15-22.01.08:788][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049857s)
+[2020.03.15-22.01.08:788][662]LogAIModule: Creating AISystem for world MechanicRoom
+[2020.03.15-22.01.08:788][662]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2020.03.15-22.01.08:789][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicRoom.MechanicRoom to /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom (0.050706s)
+[2020.03.15-22.01.08:832][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.15-22.01.08:847][662]LogInit: XAudio2 using 'PHILIPS (Sonido Intel(R) para pantallas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.15-22.01.08:854][662]LogInit: FAudioDevice initialized.
+[2020.03.15-22.01.08:863][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-22.01.08:900][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.15-22.01.08:910][662]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicRoom.MechanicRoom up for play (max tick rate 60) at 2020.03.15-16.01.08
+[2020.03.15-22.01.08:911][662]LogWorld: Bringing up level for play took: 0.010602
+[2020.03.15-22.01.08:929][662]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MechanicRoom 1.084
+[2020.03.15-22.01.08:930][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.01.15:190][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.01.15:190][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.15-22.01.15:215][ 36]LogSlate: Window 'SonicGenerations Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.15-22.01.15:245][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.15-22.01.15:246][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom' with GeneratedClass '/Game/Levels/MechanicRoom.MechanicRoom_C' with ClassGeneratedBy '/Game/Levels/MechanicRoom.MechanicRoom:PersistentLevel.MechanicRoom'
+[2020.03.15-22.01.15:297][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.15-22.01.15:310][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.03.15-22.03.39:769][  7]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-22.03.39:781][  7]LogBlueprint: Warning: [Compiler SonicAnim] Idle/Walk to QuickStepQ  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-22.03.40:024][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.15-22.03.40:033][  7]LogBlueprint: Warning: [Compiler SonicAnim] [1872.82] Compile of SonicAnim successful, but with 1 Warning(s) [in 264 ms] (/Game/BP_Animations/SonicAnim.SonicAnim)
+[2020.03.15-22.03.40:764][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-22.03.40:944][ 48]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim8B7F080246FA54B5E6A2A7BCD059D8A1.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-22.03.44:395][254]LogDialogs: Warning: Suppressed: Variable AnimationToPlay is in use! Do you really want to delete it?
+[2020.03.15-22.08.04:429][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.03.15-22.08.04:429][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MechanicRoom' took 0.049
+[2020.03.15-22.08.04:431][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_SonicFBX] ([1] browsable assets)...
+[2020.03.15-22.08.04:452][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_SonicFBX.BP_SonicFBX]
+[2020.03.15-22.08.04:452][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_SonicFBX]
+[2020.03.15-22.08.04:621][334]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX_Auto3E2C3BB6349504F0EF23634B86DF1A940.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/Character/BP_SonicFBX_Auto3.uasset'
+[2020.03.15-22.08.04:623][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Animations/SonicAnim] ([1] browsable assets)...
+[2020.03.15-22.08.04:642][334]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Animations/SonicAnim.SonicAnim]
+[2020.03.15-22.08.04:642][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Animations/SonicAnim]
+[2020.03.15-22.08.05:153][334]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim_Auto38DD2D66C40FCB6142A9BD9BD1552ECA1.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/Autosaves/Game/BP_Animations/SonicAnim_Auto3.uasset'
+[2020.03.15-22.08.05:240][334]LogFileHelpers: Auto-saving content packages took 0.810
+[2020.03.15-22.08.19:944][ 67]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-22.08.20:204][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.03.15-22.08.20:561][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-22.08.20:729][ 81]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBXB6294BBE4A2CFDF55FF027AE118E7C6C.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-22.08.28:840][562]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-22.08.29:110][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.03.15-22.08.29:585][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-22.08.29:754][583]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX41E7C0054BD8188DE55DF8A9EB67F6BC.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-22.11.21:269][743]BlueprintLog: New page: Compile SonicAnim
+[2020.03.15-22.11.21:279][743]LogBlueprint: Warning: [Compiler SonicAnim] Idle/Walk to QuickStepQ  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-22.11.21:279][743]LogBlueprint: Warning: [Compiler SonicAnim] QuickStepQ to Idle/Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-22.11.21:280][743]LogBlueprint: Warning: [Compiler SonicAnim] Idle/Walk to QuickStepE  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-22.11.21:280][743]LogBlueprint: Warning: [Compiler SonicAnim] QuickStepE to Idle/Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.03.15-22.11.21:526][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.03.15-22.11.21:538][743]LogBlueprint: Warning: [Compiler SonicAnim] [2334.33] Compile of SonicAnim successful, but with 4 Warning(s) [in 268 ms] (/Game/BP_Animations/SonicAnim.SonicAnim)
+[2020.03.15-22.11.21:911][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Animations/SonicAnim" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset" SILENT=true
+[2020.03.15-22.11.22:081][762]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/SonicAnim7FF02B5D42ADE32FD027788C89000982.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/BP_Animations/SonicAnim.uasset'
+[2020.03.15-22.14.57:198][397]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-22.14.57:476][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.03.15-22.14.58:030][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_SonicFBX" FILE="../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset" SILENT=true
+[2020.03.15-22.14.58:316][422]LogSavePackage: Moving '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Saved/BP_SonicFBX4CAF581240222EDB41EF59A7B419BE25.tmp' to '../../../../../../Users/ramse/Documents/Unreal Projects/SonicGenerations/Content/Character/BP_SonicFBX.uasset'
+[2020.03.15-22.15.45:039][642]BlueprintLog: New page: Compile BP_SonicFBX
+[2020.03.15-22.15.45:325][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.03.15-22.15.48:057][793]LogUObjectArray: Warning: Invalid object index 7077986
+[2020.03.15-22.15.48:293][793]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.15-22.15.50:815][793]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.522 s
+[2020.03.15-22.15.50:815][793]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: 
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: Stack: 
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc517db0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc51056d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc510648e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc45ae37e2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc44b75cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc44b31e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc621d5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc623c15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc6221d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc621faf5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc621f0287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc7f28b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc7f27ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc7f28d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc7f27c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffcb9395c0d USER32.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffcb9395602 USER32.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffc7f28e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ff6ce285d3e UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ff6ce29554c UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ff6ce2955ca UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ff6ce2a316c UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ff6ce2a5b8e UE4Editor.exe!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffcb8a87bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: [Callstack] 0x00007ffcb980ced1 ntdll.dll!UnknownFunction []
+[2020.03.15-22.15.50:816][793]LogOutputDevice: Error: 
+[2020.03.15-22.15.50:878][793]LogStats:                SubmitErrorReport -  0.000 s
